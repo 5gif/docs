@@ -1,7 +1,4 @@
-# This Repository
-
 Repository of documents from 3GPP and ITU workshops related to IMT2020 evaluation. It is made available more of convienience to refer and pull in the developmentwork.
-
 
 # Fundamental Documents of ITU-R
 
@@ -33,7 +30,8 @@ Important Presentations to start with are here
 * Requirements, evaluation criteria and submission templates for the development of IMT‑2020 "Report ITU-R M.[IMT-2020.SUBMISSION]"
                
 
-## Event 2 : 3GPP Workshop on IMT2020  (Oct 2018) (http://www.3gpp.org/news-events/3gpp-news/1976-imt_2020)
+## Event 2 : 3GPP Workshop on IMT2020 - Oct 2018 
+Source : [3GPP Website](http://www.3gpp.org/news-events/3gpp-news/1976-imt_2020)
 
 3GPP had submitted its candidate specifications’ self-evaluation reports to ITU-R WP5D in Meeting #31. This workshop was organized by 3GPP to all Independent Evaluation Groups to understand the 3GPP results as well as the features of 3GPP Rel.15 specifications of LTE and NR (New Radio). They also presented what are the new study-items and features being discussed at 3GPP for Rel.16 and beyond.
 
