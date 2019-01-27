@@ -32,9 +32,9 @@ This Report provides guidelines for the `procedure, the methodology` and the cri
 
 ## Event 1 : ITU-R IMT-2020 Evaluation Workshop (Oct 2017, Germany)
 Source : [WP5D Website](https://www.itu.int/en/ITU-R/study-groups/rsg5/rwp5d/imt-2020/Pages/ws-20171004.aspx)
-Find files here in [ITU-R Folder](itu-r/readme.md) 
+Find files here in [ITU-R Folder](itu-r/) 
                
 ## Event 2 : 3GPP Workshop on IMT2020  (Oct 2018, Brussels) 
 Source : [3GPP Website](http://www.3gpp.org/news-events/3gpp-news/1976-imt_2020)
-Find the presentions here [3GPP Folder](3gpp/readme.md)
+Find the presentions here [3GPP Folder](3gpp/)
  
