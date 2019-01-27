@@ -1,9 +1,29 @@
-# Event 2 : 3GPP Workshop on IMT2020 - Oct 2018 
-Source : [3GPP Website](http://www.3gpp.org/news-events/3gpp-news/1976-imt_2020)
 
-3GPP had submitted its candidate specifications’ self-evaluation reports to ITU-R WP5D in Meeting #31. This workshop was organized by 3GPP to all Independent Evaluation Groups to understand the 3GPP results as well as the features of 3GPP Rel.15 specifications of LTE and NR (New Radio). They also presented what are the new study-items and features being discussed at 3GPP for Rel.16 and beyond.
 
-Files are here :  [Dropbox](https://www.dropbox.com/sh/3dn8sd1ft875d1h/AADP5bJ-JvYDtMdHfM0_Rdlta?dl=0)  or you can download from [3GPP FTP server](http://www.3gpp.org/ftp/workshop/2018-10-24_25_WS_on_3GPP_subm_tw_IMT2020/Docs/)
+# SOURCE : RWS-180001
+## 3GPP TSG RAN RWS-180001, 
+## Brussels, Belgium, Oct. 24 - 25, 2018
+
+Chairman's foreword
+
+Welcome to the Workshop on 5G NR IMT2020 evaluation intended to present the details of the 5G NR radio interface as per the 3GPP Release 15 completed standards and the Release 16 planned features. 
+
+3GPP has been working extremely hard to bring 5G NR standards to the industry in an accelerated manner. Non-standalone 5G NR was completed in December 2017, and the corresponding ASN.1 has been stabilized in June/2018. 
+
+Standalone 5G NR was completed in June/2018, and the corresponding ASN.1 scheduled to be frozen in September/2018. 
+
+Some of the architecture options to facilitate migration from LTE to 5G NR will be completed in December/2018 still within Release 15. 
+
+3GPP has also approved the work program for Release 16 containing a host of new and enhanced functionalities for 5G NR. The target completion for Release 16 is December/2019. 3GPP submission to IMT2020 will contain both Release 15 and Release 16 functionality.
+
+
+`Balazs Bertenyi, Chairman of 3GPP RAN.`
+
+Presentation & Information can also be found here 
+1. [3GPP Website](http://www.3gpp.org/news-events/3gpp-news/1976-imt_2020)
+2. [Dropbox](https://www.dropbox.com/sh/3dn8sd1ft875d1h/AADP5bJ-JvYDtMdHfM0_Rdlta?dl=0)  
+3. [3GPP FTP server](http://www.3gpp.org/ftp/workshop/2018-10-24_25_WS_on_3GPP_subm_tw_IMT2020/Docs/)
+
 
 | RWS-180001 | Agenda of the Workshop on 3GPP submission towards IMT-2020, held Oct. 24-25, 2018 in Brussels, Belgium | 3GPP TSG RAN chairman (Nokia)                            | 10min                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Balazs Bertenyi  | 2  | 1.1   |
 | ---------- | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | -- | ----- |
