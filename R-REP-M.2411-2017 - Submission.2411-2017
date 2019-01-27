@@ -1,0 +1,1028 @@
+
+
+<!-- ITU template starts : language INdependent -->
+
+<!-- ITU template ends -->
+
+<!DOCTYPE HTML>
+<html dir="ltr" lang="en-US">
+    <head id="ctl00_Head1">
+        <!--<meta name="google-site-verification" content="F8qi7hvEFEFOIFmbgDrAZSdB_O-BAeeZIh7XZB9RlqU" />-->
+        <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE10" /><meta charset="utf-8" /><meta name="GENERATOR" content="Microsoft SharePoint" /><meta http-equiv="Content-type" content="text/html; charset=utf-8" /><meta http-equiv="Expires" content="0" />
+		
+        <!-- ===== STARTER: Robots  ======================================================================================================= -->
+        
+		
+		<!-- ===== STARTER: Page Title loaded from page or page layout ==================================================================== -->
+		<title>
+	 
+    Requirements, evaluation criteria and submission templates for the development of IMT-2020
+
+</title>
+		
+		<!-- ===== STARTER: SP Scripts and CSS  =========================================================================================== -->
+		<link id="CssRegistration1" rel="stylesheet" type="text/css" href="/_layouts/15/1033/styles/Themable/corev15.css?rev=1Z9jaA8PrXPArbKhAptvIg%3D%3DTAG0"/>
+<link rel="stylesheet" type="text/css" href="/en/publications/Style%20Library/publications.css"/>
+<script type="text/javascript" src="/_layouts/15/1033/initstrings.js?rev=2WxjgxyM2qXGgY9r2nHW8A%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/init.js?rev=ZmfWIVhaBPFyHmeYLOdoSg%3D%3DTAG0"></script>
+<script type="text/javascript" src="/ScriptResource.axd?d=Yh5yBhTnCZO6lP4owtgSWN6FHnBEIlrEUxjWxApgWPaC4hj6FmPBeFSLe7Z6vjwRaGas4o_qUJpJX3p0KPKrJ0pBwJJQlWpmpF7mAGWUO-XcOE0mGyYQtZaYGQ9p6ySI20gS7aqmSlZcw6BTutH4Mv1PzQ0oeg8SKdDsMWFb1u8cmZBlfiv0Gdw-wJ0fk3i00&amp;t=ffffffff999c3159"></script>
+<script type="text/javascript" src="/_layouts/15/blank.js?rev=NmOVskhwSSoOY1fckuh2eQ%3D%3DTAG0"></script>
+<script type="text/javascript" src="/ScriptResource.axd?d=hVpZe2gEStpcTrRvD60Hkj4eM5sjfvGX_rihqkZIHO2rHfN8endNXFKZqK2WKU9qGHSYmd3WsmxLrNNVqL4h4Tqnnez6mqlgAziXxCT9IrbQrhdNAQf3LpgkTodL-d6mwg8ojdL93uBbJELfBlCISvRt7STdlG-mV-pCSzW49l2mwN_WdEV_apJBzLMXR1Z70&amp;t=ffffffff999c3159"></script>
+<script type="text/javascript" src="/ScriptResource.axd?d=Be3xbZxqBt3MWfV_PYBBWF3eJKTX9WG43hIl7FMqq1pYVNgPBl980J018D9t9sa845OuQd4vxKlbDJULGWUHtJuv4vLT3k7b8eoQzgWik6TWK2H0LUmyVCjBulwS2dmdBpJ6nDhuWJcOb7bdw7X6eeN-ZKQ0QkdHR-9MGaZH-rqEgfyIgjF9b3a2llutpfW30&amp;t=7288cb7a"></script>
+<script type="text/javascript">RegisterSod("require.js", "\u002f_layouts\u002f15\u002frequire.js?rev=4UhLIF\u00252FezOvmGnh\u00252Fs0LLpA\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("strings.js", "\u002f_layouts\u002f15\u002f1033\u002fstrings.js?rev=RSQ8elnU1HEiGIL\u00252BoL\u00252FC4A\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("sp.res.resx", "\u002f_layouts\u002f15\u002f1033\u002fsp.res.js?rev=MbB92HT8biYuFa\u00252B1vTMilA\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("sp.runtime.js", "\u002f_layouts\u002f15\u002fsp.runtime.js?rev=lbWblaQf6udEEXTln8bSlw\u00253D\u00253DTAG0");RegisterSodDep("sp.runtime.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("sp.js", "\u002f_layouts\u002f15\u002fsp.js?rev=BOBHk\u00252BGM7kNE6qoqIhdoHQ\u00253D\u00253DTAG0");RegisterSodDep("sp.js", "sp.runtime.js");RegisterSodDep("sp.js", "sp.ui.dialog.js");RegisterSodDep("sp.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("sp.init.js", "\u002f_layouts\u002f15\u002fsp.init.js?rev=iQX\u00252FNMuKNhbXK371a4fvmg\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("sp.ui.dialog.js", "\u002f_layouts\u002f15\u002fsp.ui.dialog.js?rev=\u00252F\u00252F7IwE7RWwnMpnzkENbC5A\u00253D\u00253DTAG0");RegisterSodDep("sp.ui.dialog.js", "sp.init.js");RegisterSodDep("sp.ui.dialog.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("core.js", "\u002f_layouts\u002f15\u002fcore.js?rev=c\u00252BTQmObeXCVBFwxDdk9fRA\u00253D\u00253DTAG0");RegisterSodDep("core.js", "strings.js");</script>
+<script type="text/javascript">RegisterSod("menu.js", "\u002f_layouts\u002f15\u002fmenu.js?rev=FB6lT23xfYGF\u00252Fg7\u00252Fo\u00252FZH6g\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("mQuery.js", "\u002f_layouts\u002f15\u002fmquery.js?rev=nkfO3qy5TmHpB0K8n\u00252FRs4A\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("callout.js", "\u002f_layouts\u002f15\u002fcallout.js?rev=fP4UGyncnDnBKyigV9r79w\u00253D\u00253DTAG0");RegisterSodDep("callout.js", "strings.js");RegisterSodDep("callout.js", "mQuery.js");RegisterSodDep("callout.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("sp.core.js", "\u002f_layouts\u002f15\u002fsp.core.js?rev=a4HJR25bgLzz7hr\u00252BJCYpWA\u00253D\u00253DTAG0");RegisterSodDep("sp.core.js", "strings.js");RegisterSodDep("sp.core.js", "sp.init.js");RegisterSodDep("sp.core.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("sharedhovercard.strings.js", "\u002f_layouts\u002f15\u002f1033\u002fsharedhovercard.strings.js?rev=sLsS\u00252FNPqFzOSO42e3s6lgw\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("sharedhovercard.js", "\u002f_layouts\u002f15\u002fsharedhovercard.js?rev=uB89up9szoXj8bAMKPkPSg\u00253D\u00253DTAG0");RegisterSodDep("sharedhovercard.js", "sharedhovercard.strings.js");</script>
+<script type="text/javascript">RegisterSod("clienttemplates.js", "\u002f_layouts\u002f15\u002fclienttemplates.js?rev=h2jOax8Fgp9NMZggO3ww5A\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("sharing.js", "\u002f_layouts\u002f15\u002fsharing.js?rev=nMa8IWcqa91qsYF\u00252B3gdkXQ\u00253D\u00253DTAG0");RegisterSodDep("sharing.js", "strings.js");RegisterSodDep("sharing.js", "mQuery.js");RegisterSodDep("sharing.js", "clienttemplates.js");RegisterSodDep("sharing.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("suitelinks.js", "\u002f_layouts\u002f15\u002fsuitelinks.js?rev=9IIhC\u00252BjZUKpP626\u00252B1GQ\u00252BdA\u00253D\u00253DTAG0");RegisterSodDep("suitelinks.js", "strings.js");RegisterSodDep("suitelinks.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("cui.js", "\u002f_layouts\u002f15\u002fcui.js?rev=0qyzrotgOOWhoyasnQB0aw\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("inplview", "\u002f_layouts\u002f15\u002finplview.js?rev=GwfR3huAyWIZl9CKom9gCw\u00253D\u00253DTAG0");RegisterSodDep("inplview", "strings.js");RegisterSodDep("inplview", "core.js");RegisterSodDep("inplview", "clienttemplates.js");RegisterSodDep("inplview", "sp.js");</script>
+<script type="text/javascript">RegisterSod("ribbon", "\u002f_layouts\u002f15\u002fsp.ribbon.js?rev=kw7hGLyedUmSnY\u00252BbU40PVQ\u00253D\u00253DTAG0");RegisterSodDep("ribbon", "strings.js");RegisterSodDep("ribbon", "core.js");RegisterSodDep("ribbon", "sp.core.js");RegisterSodDep("ribbon", "sp.js");RegisterSodDep("ribbon", "cui.js");RegisterSodDep("ribbon", "sp.res.resx");RegisterSodDep("ribbon", "sp.runtime.js");RegisterSodDep("ribbon", "inplview");</script>
+<script type="text/javascript">RegisterSod("socialdata.js", "\u002f_layouts\u002f15\u002fsocialdata.js?rev=5z7cCAWKj0TKZyQolzCvNg\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("sp.ui.socialribbon.js", "\u002f_layouts\u002f15\u002fsp.ui.socialribbon.js?rev=\u00252BWA0tt\u00252FpwPbNoQJB\u00252Fw\u00252BcuA\u00253D\u00253DTAG0");RegisterSodDep("sp.ui.socialribbon.js", "ribbon");RegisterSodDep("sp.ui.socialribbon.js", "socialdata.js");</script>
+<script type="text/javascript">RegisterSod("userprofile", "\u002f_layouts\u002f15\u002fsp.userprofiles.js?rev=cx6U8sP\u00252ByP0OFLjk6ekyIg\u00253D\u00253DTAG0");RegisterSodDep("userprofile", "sp.runtime.js");</script>
+<script type="text/javascript">RegisterSod("followingcommon.js", "\u002f_layouts\u002f15\u002ffollowingcommon.js?rev=6mryUB87nm7o0Z6fZqonrw\u00253D\u00253DTAG0");RegisterSodDep("followingcommon.js", "strings.js");RegisterSodDep("followingcommon.js", "sp.js");RegisterSodDep("followingcommon.js", "userprofile");RegisterSodDep("followingcommon.js", "core.js");RegisterSodDep("followingcommon.js", "mQuery.js");</script>
+<script type="text/javascript">RegisterSod("profilebrowserscriptres.resx", "\u002f_layouts\u002f15\u002f1033\u002fprofilebrowserscriptres.js?rev=qwf69WaVc1mYlJLXqmZmVA\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("sp.ui.mysitecommon.js", "\u002f_layouts\u002f15\u002fsp.ui.mysitecommon.js?rev=pHojshYkkTW68N0BiMRTTw\u00253D\u00253DTAG0");RegisterSodDep("sp.ui.mysitecommon.js", "sp.init.js");RegisterSodDep("sp.ui.mysitecommon.js", "sp.runtime.js");RegisterSodDep("sp.ui.mysitecommon.js", "userprofile");RegisterSodDep("sp.ui.mysitecommon.js", "profilebrowserscriptres.resx");</script>
+<script type="text/javascript">RegisterSod("browserScript", "\u002f_layouts\u002f15\u002fie55up.js?rev=ElDcaqMtqbVkAyMV3x0AUw\u00253D\u00253DTAG0");RegisterSodDep("browserScript", "strings.js");</script>
+<link type="text/xml" rel="alternate" href="/en/publications/ITU-R/_vti_bin/spsdisco.aspx" />
+	
+		<!-- ===== STARTER: Core SharePoint CSS =========================================================================================== -->
+		
+
+<!-- ITU template starts : language INdependent -->
+<link rel="shortcut icon" type="image/x-icon" href="/PublishingImages/masterpage/logos/itu-favicon.ico" /><link rel="apple-touch-icon" href="/PublishingImages/masterpage/logos/apple-57.png" /><link rel="apple-touch-icon" sizes="72x72" href="/PublishingImages/masterpage/logos/apple-72.png" /><link rel="apple-touch-icon" sizes="114x114" href="/PublishingImages/masterpage/logos/apple-114.png" /><link rel="stylesheet" href="/Style Library/itu-base.css" type="text/css" media="all" /><link rel="stylesheet" href="/Style Library/itu-main.css" type="text/css" media="all" />
+
+<!-- Added by Rajani Vepa on 10 Feb 2015  the lines below -->
+<script type="text/javascript" src="/js/jquery-1.6.4.min.js"></script>
+<script type="text/javascript" src="/js/jquery-ui-1.8.16.min.js"></script>
+
+<script type="text/javascript" src="/js/itu-functions.js"></script>
+<script type="text/javascript" src="/js/itu-own-functions.js"></script>
+<!-- ITU template ends -->
+    
+		<!-- ===== STARTER: Additional header placeholder - overridden by asp:content on pages or page layouts  =========================== -->
+		
+	<link rel="stylesheet" type="text/css" href="/Style%20Library/ms-rteCustom-ITUv6.css"/>
+	<style type="text/css">
+		/* support migration of existing pages */
+		.ms-rtestate-write table { border-width:1px !important; }
+		.ms-rtestate-write table td { border-width:1px !important; }
+		.AspNet-WebPart h2, .ms-rteCustom-ITU-lightblue_header	{
+		font-family:"DroidSerifRegular", Georgia, sans-serif; padding:10px 0; display:block; line-height:1.5; color:#052d53; }
+	</style>
+
+<link rel="canonical" href="https://www.itu.int:443/en/publications/ITU-R/Pages/publications.aspx" />
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121074739-1"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+		
+		  gtag('config', 'UA-121074739-1');
+		</script>
+			<!-- Google Tag Manager -->
+			<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+			new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+			j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+			'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+			})(window,document,'script','dataLayer','GTM-NG65DX6');</script>
+			<!-- End Google Tag Manager -->
+	</head>
+	
+<!-- ITU template starts : language dependent -->
+<!--[if lt IE 7]>  <body class="ie ie6 lte9 lte8 lte7 inside"> <![endif]-->
+<!--[if IE 7]>     <body class="ie ie7 lte9 lte8 lte7 inside"> <![endif]-->
+<!--[if IE 8]>     <body class="ie ie8 lte9 lte8 inside"> <![endif]-->
+<!--[if IE 9]>     <body class="ie ie9 lte9 inside"> <![endif]-->
+<!--[if gt IE 9]>  <body class="inside"> <![endif]-->
+<!--[if !IE]><!--> <body class="inside"> <!--<![endif]-->
+<!-- ITU template ends -->
+			<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NG65DX6"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NG65DX6"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+		<!-- ===== STARTER: SP IDs / Prefetch SP images / SP Form  =========================================================================== -->
+		
+		
+		<form method="post" action="./publications.aspx?parent=R-REP-M.2411-2017" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
+<div class="aspNetHidden">
+<input type="hidden" name="_wpcmWpid" id="_wpcmWpid" value="" />
+<input type="hidden" name="wpcmVal" id="wpcmVal" value="" />
+<input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="" />
+<input type="hidden" name="MSOTlPn_SelectedWpId" id="MSOTlPn_SelectedWpId" value="" />
+<input type="hidden" name="MSOTlPn_View" id="MSOTlPn_View" value="0" />
+<input type="hidden" name="MSOTlPn_ShowSettings" id="MSOTlPn_ShowSettings" value="False" />
+<input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="" />
+<input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="" />
+<input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0x96F49B1B51F3B75F184C551EF13F4C26BB3068FF3255C178C09122FA563ACC3582EC40399835099C75651E2C0DE053B73975084A8BC02DB5FE81FFF6F0F8C66A,27 Jan 2019 10:12:52 -0000" />
+<input type="hidden" name="MSOAuthoringConsole_FormContext" id="MSOAuthoringConsole_FormContext" value="" />
+<input type="hidden" name="MSOAC_EditDuringWorkflow" id="MSOAC_EditDuringWorkflow" value="" />
+<input type="hidden" name="InputComments" id="InputComments" value="" />
+<input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse" />
+<input type="hidden" name="MSOSPWebPartManager_ExitingDesignMode" id="MSOSPWebPartManager_ExitingDesignMode" value="false" />
+<input type="hidden" name="MSOWebPartPage_Shared" id="MSOWebPartPage_Shared" value="" />
+<input type="hidden" name="MSOLayout_LayoutChanges" id="MSOLayout_LayoutChanges" value="" />
+<input type="hidden" name="MSOLayout_InDesignMode" id="MSOLayout_InDesignMode" value="" />
+<input type="hidden" name="_wpSelected" id="_wpSelected" value="" />
+<input type="hidden" name="_wzSelected" id="_wzSelected" value="" />
+<input type="hidden" name="MSOSPWebPartManager_OldDisplayModeName" id="MSOSPWebPartManager_OldDisplayModeName" value="Browse" />
+<input type="hidden" name="MSOSPWebPartManager_StartWebPartEditingName" id="MSOSPWebPartManager_StartWebPartEditingName" value="false" />
+<input type="hidden" name="MSOSPWebPartManager_EndWebPartEditing" id="MSOSPWebPartManager_EndWebPartEditing" value="false" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJODU5MjY5MTg3D2QWAmYPZBYCAgIPZBYEAgEPZBYEAgsPZBYCZg9kFgICAQ8WAh4EVGV4dAVaUmVxdWlyZW1lbnRzLCBldmFsdWF0aW9uIGNyaXRlcmlhIGFuZCBzdWJtaXNzaW9uIHRlbXBsYXRlcyBmb3IgdGhlIGRldmVsb3BtZW50IG9mIElNVC0yMDIwZAIjD2QWAmYPZBYCZg8UKwAGZAU0aHR0cHM6Ly9leHRyYW5ldC5pdHUuaW50L3BlcnNvbmFsL215c2l0ZS9QZXJzb24uYXNweAUpaHR0cHM6Ly9leHRyYW5ldC5pdHUuaW50L3BlcnNvbmFsL215c2l0ZS8FLi9lbi9wdWJsaWNhdGlvbnMvSVRVLVIvX2xheW91dHMvMTUvbXlzdWJzLmFzcHgFhgEvZW4vcHVibGljYXRpb25zL0lUVS1SL19sYXlvdXRzLzE1L3JlZ2lvbmFsc2V0bmcuYXNweD90eXBlPXVzZXImc291cmNlPWh0dHBzJTNBJTJGJTJGd3d3JTJFaXR1JTJFaW50JTJGcHViJTJGUiUyRFJFUCUyRE0lMkUyNDExJTJEMjAxNwXRAWh0dHBzOi8vZXh0cmFuZXQuaXR1LmludC9wZXJzb25hbC9teXNpdGUvX2xheW91dHMvMTUvRWRpdFByb2ZpbGUuYXNweD9Vc2VyU2V0dGluZ3NQcm92aWRlcj0yMzRiZjBlZCUyRDcwZGIlMkQ0MTU4JTJEYTMzMiUyRDRkZmQ2ODNiNDE0OCZSZXR1cm5Vcmw9aHR0cHMlM0ElMkYlMkZ3d3clMkVpdHUlMkVpbnQlMkZwdWIlMkZSJTJEUkVQJTJETSUyRTI0MTElMkQyMDE3ZAIHD2QWBAIFD2QWAgIBD2QWAgICD2QWAgIBD2QWAgIDDxYCHgdWaXNpYmxlaBYCZg9kFgQCAw9kFgYCAQ8WBh4TQ2xpZW50T25DbGlja1NjcmlwdAWSAUVuc3VyZVNjcmlwdEZ1bmMoJ3NoYXJpbmcuanMnLCAnRGlzcGxheVNoYXJlZFdpdGhEaWFsb2cnLCBmdW5jdGlvbiAoKSB7IERpc3BsYXlTaGFyZWRXaXRoRGlhbG9nKCdcdTAwMmZlblx1MDAyZnB1YmxpY2F0aW9uc1x1MDAyZklUVS1SXHUwMDJmJyk7IH0pHihDbGllbnRPbkNsaWNrU2NyaXB0Q29udGFpbmluZ1ByZWZpeGVkVXJsBZIBRW5zdXJlU2NyaXB0RnVuYygnc2hhcmluZy5qcycsICdEaXNwbGF5U2hhcmVkV2l0aERpYWxvZycsIGZ1bmN0aW9uICgpIHsgRGlzcGxheVNoYXJlZFdpdGhEaWFsb2coJ1x1MDAyZmVuXHUwMDJmcHVibGljYXRpb25zXHUwMDJmSVRVLVJcdTAwMmYnKTsgfSkeGENsaWVudE9uQ2xpY2tOYXZpZ2F0ZVVybGRkAgMPFgIfAWhkAgUPFgIfAWhkAgQPDxYCHglBY2Nlc3NLZXkFAS9kZAIJD2QWAgIMD2QWDgIDDxYCHwAFWlJlcXVpcmVtZW50cywgZXZhbHVhdGlvbiBjcml0ZXJpYSBhbmQgc3VibWlzc2lvbiB0ZW1wbGF0ZXMgZm9yIHRoZSBkZXZlbG9wbWVudCBvZiBJTVQtMjAyMGQCCw8PFgIeC05hdmlnYXRlVXJsBWVodHRwczovL3d3dy5pdHUuaW50L2l0dV9tdF9tYWluL3NhbGVzdHJhbnNhY3Rpb25zL2Jhc2tldC5qc2Y/d2VjLWFwcGlkPUVCT09LU0hPUF9CMkImd2VjLWxvY2FsZT1lbl9VU2RkAg0PDxYCHwYFZWh0dHBzOi8vd3d3Lml0dS5pbnQvaXR1X210X21haW4vc2FsZXN0cmFuc2FjdGlvbnMvYmFza2V0LmpzZj93ZWMtYXBwaWQ9RUJPT0tTSE9QX0IyQiZ3ZWMtbG9jYWxlPWVuX1VTZGQCDw8PFgIfAAUMWW91IGFyZSBoZXJlZGQCEQ8WAh8ABZIEPGEgaHJlZj0iL2VuIj5Ib21lPC9hPiA+IDxhIGhyZWY9Ii9lbi9wdWJsaWNhdGlvbnMiPklUVSBQdWJsaWNhdGlvbnM8L2E+ID4gPGEgaHJlZj0iL2VuL3B1YmxpY2F0aW9ucy9JVFUtUiI+UmFkaW9jb21tdW5pY2F0aW9uIChJVFUtUik8L2E+ID4gPGEgaHJlZj0iL2VuL3B1YmxpY2F0aW9ucy9JVFUtUi9QYWdlcy9SLVJFUC5hc3B4Ij5JVFUtUiBSZXBvcnRzPC9hPiA+IDxhIGhyZWY9Ii9lbi9wdWJsaWNhdGlvbnMvSVRVLVIvUGFnZXMvcHVibGljYXRpb25zLmFzcHg/cGFyZW50PVItUkVQLU0iPk1vYmlsZSwgcmFkaW9kZXRlcm1pbmF0aW9uLCBhbWF0ZXVyIGFuZCByZWxhdGVkIHNhdGVsbGl0ZSBzZXJ2aWNlczwvYT4gPiA8YSBocmVmPSIvZW4vcHVibGljYXRpb25zL0lUVS1SL1BhZ2VzL3B1YmxpY2F0aW9ucy5hc3B4P3BhcmVudD1SLVJFUC1NLjI0MTEiPlJlcXVpcmVtZW50cywgZXZhbHVhdGlvbiBjcml0ZXJpYSBhbmQgc3VibWlzc2lvbiB0ZW1wbGF0ZXMgZm9yIHRoZSBkZXZlbG9wbWVudCBvZiBJTVQtMjAyMDwvYT4gPiBkAhMPDxYCHwAFBVNoYXJlZGQCFw9kFgJmD2QWAgICDxYCHglpbm5lcmh0bWwF4lo8ZGl2IGNsYXNzPSJtb2R1bGUgbW9kdWxlLXRhYnMgX2ludmlzaWJsZUlmRW1wdHkiPg0KICAgIDx1bCBjbGFzcz0idGFicyBjbGVhcmZpeCI+DQogICAgICAgIDxsaSBjbGFzcz0iX2ludmlzaWJsZUlmRW1wdHkiIHN0eWxlPSJ3aWR0aDo5MnB4Ij4NCiAgICAgICAgICAgIDxhIGhyZWY9IiN0YWIxIj4NCiAgICAgICAgICAgICAgICA8c3Bhbj5RVUlDSyBMSU5LUzwvc3Bhbj4NCiAgICAgICAgICAgIDwvYT4NCiAgICAgICAgPC9saT4NCiAgICA8L3VsPg0KICAgIDxkaXYgY2xhc3M9InRhYi1ib3ggIiBpZD0idGFiMSI+DQogICAgICAgIDxkaXYgY2xhc3M9Im1vZHVsZS1jb250ZW50Ij4NCiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbnRlbnROZXcgX2ludmlzaWJsZUlmRW1wdHkiPg0KICAgICAgICAgICAgICAgIDxkaXYgaWQ9ImN0bDAwX1BsYWNlSG9sZGVyTWFpbl9jdGw2NF9jdGwwMF9fQ29udHJvbFdyYXBwZXJfUmljaEh0bWxGaWVsZCIgY2xhc3M9Im1zLXJ0ZXN0YXRlLWZpZWxkIiBzdHlsZT0iZGlzcGxheTppbmxpbmUiIGFyaWEtbGFiZWxsZWRieT0iY3RsMDBfUGxhY2VIb2xkZXJNYWluX2N0bDY0X2N0bDAwX2xhYmVsIj4NCiAgICAgICAgICAgICAgICAgICAgPHNwYW4+DQogICAgICAgICAgICAgICAgICAgICAgICA8dWwgY2xhc3M9Im1zLXJ0ZVN0eWxlLUlUVVhDb21tdVF1aWNrTGlua3MiPg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSJodHRwczovL3d3dy5pdHUuaW50L25ldDQvSVRVLVQvc2VhcmNoL1RoZW1hdGljU2VhcmNoIj5TZWFyY2ggcHVibGljYXRpb25zPC9zcGFuPjwvYT48L2xpPg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSIvZW4vcHVibGljYXRpb25zL1BhZ2VzL05ld3JlbGVhc2VzLmFzcHgiPk5ldyByZWxlYXNlczwvYT48L2xpPg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSIvZW4vcHVibGljYXRpb25zL1BhZ2VzL2Jlc3Qtc2VsbGVycy5hc3B4Ij5GZWF0dXJlZDwvYT48L2xpPg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSIvZW4vcHVibGljYXRpb25zL1BhZ2VzL3B1Ym5vdGljZWxpc3QuYXNweCI+UHVibGljYXRpb24gTm90aWNlczwvZm9udD48L3NwYW4+PC9hPiA8L2xpPg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSIvZG1zX3B1Yi9pdHUtcy9vcGIvZ2VuL1MtR0VOLUNBVC5PTC0yMDE4LVBERi1FLnBkZiIgdGFyZ2V0PSJfYmxhbmsiPlB1YmxpY2F0aW9uIENhdGFsb2d1ZTwvYT48L2xpPg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSIvZW4vcHVibGljYXRpb25zL1BhZ2VzL0VwdWIuYXNweCI+QWNjZXNzaWJsZSBwdWJsaWNhdGlvbnM8L2E+PC9saT4NCg0KICAgICAgICAgICAgICAgICAgICAgICAgPC91bD4NCiAgICAgICAgICAgICAgICAgICAgPC9zcGFuPg0KICAgICAgICAgICAgICAgIDwvZGl2Pg0KICAgICAgICAgICAgPC9kaXY+DQogICAgICAgIDwvZGl2Pg0KICAgIDwvZGl2Pg0KPC9kaXY+DQoNCjxkaXYgY2xhc3M9Im1vZHVsZSBtb2R1bGUtYmx1ZSBtb2R1bGUtZ3JleWJnIF9pbnZpc2libGVJZkVtcHR5Ij4NCiAgICA8ZGl2IGNsYXNzPSJjb250ZW50TmV3ICBtb2R1bGUtY29udGVudCBfaW52aXNpYmxlSWZFbXB0eSI+DQogICAgICAgIDxkaXYgY2xhc3M9Im1vZHVsZS1oZWFkZXIgX2ludmlzaWJsZUlmRW1wdHkiPg0KICAgICAgICAgICAgPGgyPlB1YmxpY2F0aW9ucyBieSBTZWN0b3I8L2gyPg0KICAgICAgICA8L2Rpdj4NCiAgICAgICAgDQogICAgICAgIDxkaXYgY2xhc3M9ImhvbWUtYmxvY2siIHN0eWxlPSJtYXJnaW46IDBweCAwcHggMHB4IDVweDsgd2lkdGg6IDEwMCU7Ij4NCjxkaXYgY2xhc3M9ImFjY29yZGlvbiI+DQo8ZGwgY2xhc3M9InVpLWFjY29yZGlvbiB1aS13aWRnZXQgdWktaGVscGVyLXJlc2V0IHVpLWFjY29yZGlvbi1pY29ucyIgcm9sZT0idGFibGlzdCI+DQo8ZHQgY2xhc3M9InVpLWFjY29yZGlvbi1oZWFkZXIgdWktaGVscGVyLXJlc2V0IHVpLXN0YXRlLWFjdGl2ZSB1aS1jb3JuZXItdG9wIHVpLXN0YXRlLWRlZmF1bHQgdWktY29ybmVyLWFsbCIgcm9sZT0idGFiIiBhcmlhLWV4cGFuZGVkPSJmYWxzZSIgYXJpYS1zZWxlY3RlZD0iZmFsc2UiIHN0eWxlPSJib3JkZXItdG9wLXN0eWxlOiBub25lOyI+R2VuZXJhbCBTZWNyZXRhcmlhdCBhbmQgSVRVIFRlbGVjb208L2R0Pg0KPGRkIGNsYXNzPSJ1aS1hY2NvcmRpb24tY29udGVudCB1aS1oZWxwZXItcmVzZXQgdWktd2lkZ2V0LWNvbnRlbnQgdWktY29ybmVyLWJvdHRvbSB1aS1hY2NvcmRpb24tY29udGVudC1hY3RpdmUiIHJvbGU9InRhYnBhbmVsIiBzdHlsZT0icGFkZGluZzogMHB4IDBweCAwcHggMTVweDsgb3ZlcmZsb3c6IHZpc2libGU7IGRpc3BsYXk6IG5vbmU7Ij4NCiAgICAgICAgICAgIDx1bCBjbGFzcz0ibXMtcnRlU3R5bGUtSVRVWENvbW11UXVpY2tMaW5rcyI+DQogICAgICAgICAgICAgICA8bGkgc3R5bGU9ImZvbnQtc2l6ZTogOHB0OyI+DQogICAgICAgICAgICAgICAgICA8YSBocmVmPSIvZW4vcHVibGljYXRpb25zL2dzL1BhZ2VzL2RlZmF1bHQuYXNweCI+R2VuZXJhbCBTZWNyZXRhcmlhdCBhbmQgVGVsZWNvbTwvYT48L2xpPg0KICAgICAgICAgICAgICAgPGxpIHN0eWxlPSJmb250LXNpemU6IDhwdDsiPiAgICAgIA0KICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iL2VuL3B1YmxpY2F0aW9ucy9ncy9QYWdlcy9TLUdFTi5hc3B4Ij5HZW5lcmFsPC9hPjwvbGk+DQogICAgICAgICAgICAgICA8bGkgc3R5bGU9ImZvbnQtc2l6ZTogOHB0OyI+ICAgICAgDQogICAgICAgICAgICAgICAgICA8YSBocmVmPSIvZW4vcHVibGljYXRpb25zL2dzL1BhZ2VzL1MtQ09ORi5hc3B4Ij5Db25mZXJlbmNlIFB1YmxpY2F0aW9uczwvYT48L2xpPg0KICAgICAgICAgICAgICAgPGxpIHN0eWxlPSJmb250LXNpemU6IDhwdDsiPiAgICAgIA0KICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iL2VuL3B1YmxpY2F0aW9ucy9ncy9QYWdlcy9TLVBPTC5hc3B4Ij5Qb2xpY3kgYW5kIE1hcmtldCBBbmFseXNpczwvYT48L2xpPg0KICAgICAgICAgICAgICAgPGxpIHN0eWxlPSJmb250LXNpemU6IDhwdDsiPiAgICAgIA0KICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iL2VuL3B1YmxpY2F0aW9ucy9ncy9QYWdlcy9TLVRFUk0uYXNweCI+VGVybWlub2xvZ3k8L2E+PC9saT4NCiAgICAgICAgICAgICAgIDxsaSBzdHlsZT0iZm9udC1zaXplOiA4cHQ7Ij4gICAgICANCiAgICAgICAgICAgICAgICAgIDxhIGhyZWY9Ii9lbi9wdWJsaWNhdGlvbnMvZ3MvUGFnZXMvUy1UTEMuYXNweCI+SVRVIFRFTEVDT00gUHVibGljYXRpb25zPC9hPjwvbGk+DQogICAgICAgICAgICAgICA8bGkgc3R5bGU9ImZvbnQtc2l6ZTogOHB0OyI+ICAgICAgDQogICAgICAgICAgICAgICAgICA8YSBocmVmPSIvcHViL1MtSk9VUk5BTCI+SVRVIEpvdXJuYWw8L2E+PC9saT4NCiAgICAgICAgICAgIDwvdWw+DQo8L2RkPg0KPGR0IHRhYmluZGV4PSItMSIgY2xhc3M9InVpLWFjY29yZGlvbi1oZWFkZXIgdWktaGVscGVyLXJlc2V0IHVpLXN0YXRlLWFjdGl2ZSB1aS1jb3JuZXItdG9wIHVpLXN0YXRlLWRlZmF1bHQgdWktY29ybmVyLWFsbCIgcm9sZT0idGFiIiBhcmlhLWV4cGFuZGVkPSJmYWxzZSIgYXJpYS1zZWxlY3RlZD0iZmFsc2UiIHN0eWxlPSJib3JkZXItdG9wLXN0eWxlOiBub25lOyI+UmFkaW9jb21tdW5pY2F0aW9uIChJVFUtUik8L2R0Pg0KICAgICAgICAgPGRkIGNsYXNzPSJ1aS1hY2NvcmRpb24tY29udGVudCB1aS1oZWxwZXItcmVzZXQgdWktd2lkZ2V0LWNvbnRlbnQgdWktY29ybmVyLWJvdHRvbSB1aS1hY2NvcmRpb24tY29udGVudC1hY3RpdmUiIHJvbGU9InRhYnBhbmVsIiBzdHlsZT0icGFkZGluZzogMHB4IDBweCAwcHggMTVweDsgb3ZlcmZsb3c6IHZpc2libGU7IGRpc3BsYXk6IG5vbmU7Ij4NCiAgICAgICAgIDx1bCBjbGFzcz0ibXMtcnRlU3R5bGUtSVRVWENvbW11UXVpY2tMaW5rcyI+DQogICAgICAgICAgICAgICA8bGkgc3R5bGU9ImZvbnQtc2l6ZTogOHB0OyI+DQogICAgICAgICAgICAgICAgICA8YSBocmVmPSIvZW4vcHVibGljYXRpb25zL0lUVS1SL1BhZ2VzL2RlZmF1bHQuYXNweCI+UmFkaW9jb21tdW5pY2F0aW9uIChJVFUtUik8L2E+PC9saT4NCiAgICAgICAgICAgICAgPGxpIHN0eWxlPSJmb250LXNpemU6IDhwdDsiPiAgICAgIA0KICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iL2VuL3B1YmxpY2F0aW9ucy9JVFUtUi9QYWdlcy9SLUdFTi5hc3B4Ij5HZW5lcmFsIFB1YmxpY2F0aW9uczwvYT48L2xpPg0KICAgICAgICAgICAgICAgPGxpIHN0eWxlPSJmb250LXNpemU6IDhwdDsiPg0KICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iL2VuL3B1YmxpY2F0aW9ucy9JVFUtUi9QYWdlcy9SLVJFRy5hc3B4Ij5SZWd1bGF0b3J5IFB1YmxpY2F0aW9uczwvYT48L2xpPg0KICAgICAgICAgICAgICA8bGkgc3R5bGU9ImZvbnQtc2l6ZTogOHB0OyI+ICAgICAgDQogICAgICAgICAgICAgICAgICA8YSBocmVmPSIvZW4vcHVibGljYXRpb25zL0lUVS1SL1BhZ2VzL1ItQUNULmFzcHgiPkNvbmZlcmVuY2UgUHVibGljYXRpb25zPC9hPjwvbGk+DQogICAgICAgICAgICAgICA8bGkgc3R5bGU9ImZvbnQtc2l6ZTogOHB0OyI+DQogICAgICAgICAgICAgICAgICA8YSBocmVmPSIvZW4vcHVibGljYXRpb25zL0lUVS1SL1BhZ2VzL1ItUVVFLmFzcHgiPklUVS1SIFF1ZXN0aW9uczwvYT48L2xpPg0KICAgICAgICAgICAgICA8bGkgc3R5bGU9ImZvbnQtc2l6ZTogOHB0OyI+ICAgICAgDQogICAgICAgICAgICAgICAgICA8YSBocmVmPSIvZW4vcHVibGljYXRpb25zL0lUVS1SL1BhZ2VzL1ItUkVTLmFzcHgiPklUVS1SIFJlc29sdXRpb25zPC9hPjwvbGk+DQogICAgICAgICAgICAgICA8bGkgc3R5bGU9ImZvbnQtc2l6ZTogOHB0OyI+DQogICAgICAgICAgICAgICAgICA8YSBocmVmPSIvZW4vcHVibGljYXRpb25zL0lUVS1SL1BhZ2VzL1ItU1AuYXNweCI+U2VydmljZSBQdWJsaWNhdGlvbnM8L2E+PC9saT4NCiAgICAgICAgICAgICAgPGxpIHN0eWxlPSJmb250LXNpemU6IDhwdDsiPiAgICAgIA0KICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iL2VuL3B1YmxpY2F0aW9ucy9JVFUtUi9QYWdlcy9SLVJFQy5hc3B4Ij5JVFUtUiBSZWNvbW1lbmRhdGlvbnM8L2E+PC9saT4NCiAgICAgICAgICAgICAgIDxsaSBzdHlsZT0iZm9udC1zaXplOiA4cHQ7Ij4NCiAgICAgICAgICAgICAgICAgIDxhIGhyZWY9Ii9lbi9wdWJsaWNhdGlvbnMvSVRVLVIvUGFnZXMvUi1SRVAuYXNweCI+SVRVLVIgUmVwb3J0czwvYT48L2xpPg0KICAgICAgICAgICAgICA8bGkgc3R5bGU9ImZvbnQtc2l6ZTogOHB0OyI+ICAgICAgDQogICAgICAgICAgICAgICAgICA8YSBocmVmPSIvZW4vcHVibGljYXRpb25zL0lUVS1SL1BhZ2VzL1ItSERCLmFzcHgiPkhhbmRib29rczwvYT48L2xpPg0KICAgICAgICAgICAgICAgPGxpIHN0eWxlPSJmb250LXNpemU6IDhwdDsiPg0KICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iL2VuL3B1YmxpY2F0aW9ucy9JVFUtUi9QYWdlcy9SLU9QLmFzcHgiPklUVS1SIE9waW5pb25zPC9hPjwvbGk+DQogICAgICAgICAgICAgIDxsaSBzdHlsZT0iZm9udC1zaXplOiA4cHQ7Ij4gICAgICANCiAgICAgICAgICAgICAgICAgIDxhIGhyZWY9Ii9lbi9wdWJsaWNhdGlvbnMvSVRVLVIvUGFnZXMvUi1TT0ZULmFzcHgiPlNvZnR3YXJlIGFuZCBEYXRhYmFzZXM8L2E+PC9saT4NCiAgICAgICAgICAgICAgIDxsaSBzdHlsZT0iZm9udC1zaXplOiA4cHQ7Ij4NCiAgICAgICAgICAgICAgICAgIDxhIGhyZWY9Ii9lbi9wdWJsaWNhdGlvbnMvSVRVLVIvUGFnZXMvUi1URVIuYXNweCI+VGVybWlub2xvZ3k8L2E+PC9saT4NCiAgICAgICAgICAgICAgPC91bD4NCiAgICAgICAgIDwvZGQ+DQo8ZHQgdGFiaW5kZXg9Ii0xIiBjbGFzcz0idWktYWNjb3JkaW9uLWhlYWRlciB1aS1oZWxwZXItcmVzZXQgdWktc3RhdGUtYWN0aXZlIHVpLWNvcm5lci10b3AgdWktc3RhdGUtZGVmYXVsdCB1aS1jb3JuZXItYWxsIiByb2xlPSJ0YWIiIGFyaWEtZXhwYW5kZWQ9ImZhbHNlIiBhcmlhLXNlbGVjdGVkPSJmYWxzZSIgc3R5bGU9ImJvcmRlci10b3Atc3R5bGU6IG5vbmU7Ij5TdGFuZGFyZGl6YXRpb24gKElUVS1UKTwvZHQ+DQogICAgICAgICA8ZGQgY2xhc3M9InVpLWFjY29yZGlvbi1jb250ZW50IHVpLWhlbHBlci1yZXNldCB1aS13aWRnZXQtY29udGVudCB1aS1jb3JuZXItYm90dG9tIHVpLWFjY29yZGlvbi1jb250ZW50LWFjdGl2ZSIgcm9sZT0idGFicGFuZWwiIHN0eWxlPSJwYWRkaW5nOiAwcHggMHB4IDBweCAxNXB4OyBvdmVyZmxvdzogdmlzaWJsZTsgZGlzcGxheTogbm9uZTsiPg0KICAgICAgICAgICAgPHVsIGNsYXNzPSJtcy1ydGVTdHlsZS1JVFVYQ29tbXVRdWlja0xpbmtzIj4NCgkJCSAgIDxsaSBzdHlsZT0iZm9udC1zaXplOiA4cHQ7Ij4NCiAgICAgICAgICAgICAgICAgIDxhIGhyZWY9Ii9lbi9wdWJsaWNhdGlvbnMvSVRVLVQvUGFnZXMvZGVmYXVsdC5hc3B4Ij5TdGFuZGFyZGl6YXRpb24gKElUVS1UKTwvYT48L2xpPg0KICAgICAgICAgICAgICAgPGxpIHN0eWxlPSJmb250LXNpemU6IDhwdDsiPiAgICAgIA0KICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iL2VuL3B1YmxpY2F0aW9ucy9JVFUtVC9QYWdlcy9ULUdFTi5hc3B4Ij5HZW5lcmFsPC9hPjwvbGk+DQoJCQkJICA8bGkgc3R5bGU9ImZvbnQtc2l6ZTogOHB0OyI+ICAgICAgDQogICAgICAgICAgICAgICAgICA8YSBocmVmPSIvZW4vcHVibGljYXRpb25zL0lUVS1UL1BhZ2VzL1QtUkVHLmFzcHgiPlJlZ3VsYXRpb25zPC9hPjwvbGk+DQogICAgICAgICAgICAgICA8bGkgc3R5bGU9ImZvbnQtc2l6ZTogOHB0OyI+DQogICAgICAgICAgICAgICAgICA8YSBocmVmPSIvZW4vcHVibGljYXRpb25zL0lUVS1UL1BhZ2VzL1QtUkVTLmFzcHgiPlJlc29sdXRpb25zIGFuZCBPcGluaW9uczwvYT48L2xpPg0KICAgICAgICAgICAgICAgPGxpIHN0eWxlPSJmb250LXNpemU6IDhwdDsiPiAgICAgIA0KICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iL2VuL3B1YmxpY2F0aW9ucy9JVFUtVC9QYWdlcy9ULVJFQy5hc3B4Ij5JVFUtVCBSZWNvbW1lbmRhdGlvbnM8L2E+PC9saT4NCiAgICAgICAgICAgICAgIDxsaSBzdHlsZT0iZm9udC1zaXplOiA4cHQ7Ij4gICAgICANCiAgICAgICAgICAgICAgICAgIDxhIGhyZWY9Ii9lbi9wdWJsaWNhdGlvbnMvSVRVLVQvUGFnZXMvVC1TUC5hc3B4Ij5TZXJ2aWNlIFB1YmxpY2F0aW9uczwvYT48L2xpPg0KICAgICAgICAgICAgICAgPGxpIHN0eWxlPSJmb250LXNpemU6IDhwdDsiPiAgICAgIA0KICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iL2VuL3B1YmxpY2F0aW9ucy9JVFUtVC9QYWdlcy9ULUhEQi5hc3B4Ij5IYW5kYm9va3M8L2E+PC9saT4NCiAgICAgICAgICAgICAgIDxsaSBzdHlsZT0iZm9udC1zaXplOiA4cHQ7Ij4gICAgICANCiAgICAgICAgICAgICAgICAgIDxhIGhyZWY9Ii9lbi9wdWJsaWNhdGlvbnMvSVRVLVQvUGFnZXMvVC1QUk9DLmFzcHgiPlByb2NlZWRpbmdzPC9hPjwvbGk+DQogICAgICAgICAgICAgICA8bGkgc3R5bGU9ImZvbnQtc2l6ZTogOHB0OyI+ICAgICAgDQogICAgICAgICAgICAgICAgICA8YSBocmVmPSIvZW4vcHVibGljYXRpb25zL0lUVS1UL1BhZ2VzL1QtRkcuYXNweD5Gb2N1cyBHcm91cHMgcHVibGljYXRpb25zPC9hPjwvbGk+DQogICAgICAgICAgICAgICA8bGkgc3R5bGU9ImZvbnQtc2l6ZTogOHB0OyI+ICAgICAgDQogICAgICAgICAgICAgICAgICA8YSBocmVmPSIvZW4vcHVibGljYXRpb25zL0lUVS1UL1BhZ2VzL1QtTUlSLmFzcHgiPlRlc3QgY2hhcnRzPC9hPjwvbGk+DQogICAgICAgICAgICAgICA8bGkgc3R5bGU9ImZvbnQtc2l6ZTogOHB0OyI+ICAgICAgDQogICAgICAgICAgICAgICAgICA8YSBocmVmPSIvZW4vcHVibGljYXRpb25zL0lUVS1UL1BhZ2VzL1QtVFVULmFzcHgiPlRlY2huaWNhbCBwYXBlcnMgYW5kIHR1dG9yaWFsczwvYT48L2xpPg0KICAgICAgICAgICAgICAgPGxpIHN0eWxlPSJmb250LXNpemU6IDhwdDsiPiAgICAgIA0KICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iL2VuL3B1YmxpY2F0aW9ucy9JVFUtVC9QYWdlcy9ULVRFUi5hc3B4Ij5UZXJtaW5vbG9neTwvYT48L2xpPg0KCQkJICA8L3VsPg0KICAgICAgICAgPC9kZD4NCjxkdCB0YWJpbmRleD0iLTEiIGNsYXNzPSJ1aS1hY2NvcmRpb24taGVhZGVyIHVpLWhlbHBlci1yZXNldCB1aS1zdGF0ZS1hY3RpdmUgdWktY29ybmVyLXRvcCB1aS1zdGF0ZS1kZWZhdWx0IHVpLWNvcm5lci1hbGwiIHJvbGU9InRhYiIgYXJpYS1leHBhbmRlZD0iZmFsc2UiIGFyaWEtc2VsZWN0ZWQ9ImZhbHNlIiBzdHlsZT0iYm9yZGVyLXRvcC1zdHlsZTogbm9uZTsiPkRldmVsb3BtZW50IChJVFUtRCk8L2R0Pg0KICAgICAgICAgPGRkIGNsYXNzPSJ1aS1hY2NvcmRpb24tY29udGVudCB1aS1oZWxwZXItcmVzZXQgdWktd2lkZ2V0LWNvbnRlbnQgdWktY29ybmVyLWJvdHRvbSB1aS1hY2NvcmRpb24tY29udGVudC1hY3RpdmUiIHJvbGU9InRhYnBhbmVsIiBzdHlsZT0icGFkZGluZzogMHB4IDBweCAwcHggMTVweDsgb3ZlcmZsb3c6IHZpc2libGU7IGRpc3BsYXk6IG5vbmU7Ij4NCiAgICAgICAgICAgIDx1bCBjbGFzcz0ibXMtcnRlU3R5bGUtSVRVWENvbW11UXVpY2tMaW5rcyI+DQogICAgICAgICAgICAgICA8bGkgc3R5bGU9ImZvbnQtc2l6ZTogOHB0OyI+DQogICAgICAgICAgICAgICAgICA8YSBocmVmPSIvZW4vcHVibGljYXRpb25zL0lUVS1EL1BhZ2VzL2RlZmF1bHQuYXNweCI+RGV2ZWxvcG1lbnQgKElUVS1EKTwvYT48L2xpPg0KICAgICAgICAgICAgICAgPGxpIHN0eWxlPSJmb250LXNpemU6IDhwdDsiPiAgICAgIA0KICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iL2VuL3B1YmxpY2F0aW9ucy9JVFUtRC9QYWdlcy9ELUdFTi5hc3B4Ij5HZW5lcmFsPC9hPjwvbGk+DQogICAgICAgICAgICAgICA8bGkgc3R5bGU9ImZvbnQtc2l6ZTogOHB0OyI+DQogICAgICAgICAgICAgICAgICA8YSBocmVmPSIvZW4vcHVibGljYXRpb25zL0lUVS1EL1BhZ2VzL0QtUFJFRi5hc3B4Ij5QdWJsaWNhdGlvbnMgb24gSUNUIFJlZ3VsYXRpb24sIEVjb25vbWljcyBhbmQgRmluYW5jZTwvYT48L2xpPg0KICAgICAgICAgICAgICAgPGxpIHN0eWxlPSJmb250LXNpemU6IDhwdDsiPiAgICAgIA0KICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iL2VuL3B1YmxpY2F0aW9ucy9JVFUtRC9QYWdlcy9ELUlORC5hc3B4Ij5TdGF0aXN0aWNzIGFuZCBJbmRpY2F0b3JzPC9hPjwvbGk+DQogICAgICAgICAgICAgICA8bGkgc3R5bGU9ImZvbnQtc2l6ZTogOHB0OyI+DQogICAgICAgICAgICAgICAgICA8YSBocmVmPSIvZW4vcHVibGljYXRpb25zL0lUVS1EL1BhZ2VzL0QtU1RHLmFzcHgiPlN0dWR5IEdyb3VwczwvYT48L2xpPg0KICAgICAgICAgICAgICAgPGxpIHN0eWxlPSJmb250LXNpemU6IDhwdDsiPiAgICAgIA0KICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iL2VuL3B1YmxpY2F0aW9ucy9JVFUtRC9QYWdlcy9ELVREQy5hc3B4Ij5Db25mZXJlbmNlIFB1YmxpY2F0aW9uczwvYT48L2xpPg0KICAgICAgICAgICAgICAgPGxpIHN0eWxlPSJmb250LXNpemU6IDhwdDsiPiAgICAgIA0KICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iL2VuL3B1YmxpY2F0aW9ucy9JVFUtRC9QYWdlcy9ELUlOTk8uYXNweCI+SW5ub3ZhdGlvbjwvYT48L2xpPg0KICAgICAgICAgICAgICAgPGxpIHN0eWxlPSJmb250LXNpemU6IDhwdDsiPg0KICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iL2VuL3B1YmxpY2F0aW9ucy9JVFUtRC9QYWdlcy9ELU9QRVIuYXNweCI+T3BlcmF0b3JzPC9hPjwvbGk+DQogICAgICAgICAgICAgICA8bGkgc3R5bGU9ImZvbnQtc2l6ZTogOHB0OyI+ICAgICAgDQogICAgICAgICAgICAgICAgICA8YSBocmVmPSIvZW4vcHVibGljYXRpb25zL0lUVS1EL1BhZ2VzL0QtTERDLmFzcHgiPkxlYXN0IERldmVsb3BlZCBDb3VudHJpZXM8L2E+PC9saT4NCiAgICAgICAgICAgICAgIDxsaSBzdHlsZT0iZm9udC1zaXplOiA4cHQ7Ij4NCiAgICAgICAgICAgICAgICAgIDxhIGhyZWY9Ii9lbi9wdWJsaWNhdGlvbnMvSVRVLUQvUGFnZXMvRC1IREIuYXNweCI+SGFuZGJvb2tzPC9hPjwvbGk+DQogICAgICAgICAgICAgICA8bGkgc3R5bGU9ImZvbnQtc2l6ZTogOHB0OyI+ICAgICAgDQogICAgICAgICAgICAgICAgICA8YSBocmVmPSIvZW4vcHVibGljYXRpb25zL0lUVS1EL1BhZ2VzL0QtU1RSLmFzcHgiPkUtU3RyYXRlZ2llczwvYT48L2xpPg0KICAgICAgICAgICAgICAgPGxpIHN0eWxlPSJmb250LXNpemU6IDhwdDsiPiAgICAgIA0KICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iL2VuL3B1YmxpY2F0aW9ucy9JVFUtRC9QYWdlcy9wdWJsaWNhdGlvbnMuYXNweD9wYXJlbnQ9RC1QSENCIj5QdWJsaWNhdGlvbnMgb24gaHVtYW4gYW5kIGluc3RpdHV0aW9uYWwgY2FwYWNpdHkgYnVpbGRpbmcgYW5kIGRpZ2l0YWwgaW5jbHVzaW9uPC9hPjwvbGk+DQogICAgICAgICAgICA8L3VsPg0KICAgICAgICAgPC9kZD4NCjwvZGw+DQo8L2Rpdj4NCjwvZGl2PiYjMTYwOw0KDQoNCiAgICA8L2Rpdj4NCjwvZGl2Pg0KDQo8ZGl2IGNsYXNzPSJtb2R1bGUgIG1vZHVsZS1ibHVlIG1vZHVsZS1ncmV5YmcgX2ludmlzaWJsZUlmRW1wdHkiPg0KICAgIDxkaXYgY2xhc3M9ImNvbnRlbnROZXcgIG1vZHVsZS1jb250ZW50IF9pbnZpc2libGVJZkVtcHR5Ij4NCiAgICAgICAgPGRpdiBjbGFzcz0ibW9kdWxlLWhlYWRlciBfaW52aXNpYmxlSWZFbXB0eSI+DQogICAgICAgICAgICA8aDI+RnVydGhlciBJbmZvcm1hdGlvbjwvaDI+DQogICAgICAgIDwvZGl2Pg0KICAgICAgICA8ZGl2IGlkPSJjdGwwMF9QbGFjZUhvbGRlck1haW5fY3RsMTAzX19Db250cm9sV3JhcHBlcl9SaWNoSHRtbEZpZWxkIiBjbGFzcz0ibXMtcnRlc3RhdGUtZmllbGQiIHN0eWxlPSJkaXNwbGF5OmlubGluZSIgYXJpYS1sYWJlbGxlZGJ5PSJjdGwwMF9QbGFjZUhvbGRlck1haW5fY3RsMTAzX2xhYmVsIj4NCiAgICAgICAgICAgIDx1bCBjbGFzcz0ibXMtcnRlU3R5bGUtSVRVWENvbW11UXVpY2tMaW5rcyI+DQogICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9Ii9lbi9wdWJsaWNhdGlvbnMvUGFnZXMvU291dmVuaXJzLmFzcHgiPklUVSBTb3V2ZW5pcnM8L2E+PC9saT4NCiAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iL2VuL3B1YmxpY2F0aW9ucy9QYWdlcy9SZXNlbGxlcnMuYXNweCI+SVRVIFJlc2VsbGVyczwvYT48L2xpPg0KICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSIvZW4vcHVibGljYXRpb25zL1BhZ2VzL0NvbmRTYWxlLmFzcHgiPkNvbmRpdGlvbnMgb2Ygc2FsZTwvYT48L2xpPg0KICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSIvZW4vcHVibGljYXRpb25zL1BhZ2VzL0hvd3RvYnV5LmFzcHgiPkZBUTwvYT48L2xpPg0KICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSIvZW4vcHVibGljYXRpb25zL1BhZ2VzL0NvbnRhY3QuYXNweCI+Q29udGFjdDwvYT48L2xpPg0KICAgICAgICAgICAgPC91bD4NCiAgICAgICAgPC9kaXY+DQogICAgPC9kaXY+DQo8L2Rpdj4NCmRkVvGabdc1P7DZJwwajDNt3M2Zfowihbu9RkTdO32nY3s=" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=2bMduLc5deWaE1x4rAKa04Fkn7JjNuEQj_10AenfpEd_UMSyHYo2XG7LO-GGMVQR2du7KV0H1KEr3pd5x_1kuWNmmjqKnofHlwP7U6ftJu01&amp;t=636776761224055265" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+var MSOWebPartPageFormName = 'aspnetForm';
+var g_presenceEnabled = true;
+var g_wsaEnabled = false;
+
+var g_correlationId = '900fba9e-bf20-f0df-5ef9-db630f875747';
+var g_wsaQoSEnabled = false;
+var g_wsaQoSDataPoints = [];
+var g_wsaRUMEnabled = false;
+var g_wsaLCID = 1033;
+var g_wsaListTemplateId = 850;
+var g_wsaSiteTemplateId = 'ITUCUSTOM#2';
+var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002fen\u002fpublications\u002fITU-R", webAbsoluteUrl: "https:\u002f\u002fwww.itu.int\u002fen\u002fpublications\u002fITU-R", siteAbsoluteUrl: "https:\u002f\u002fwww.itu.int", serverRequestPath: "\u002fen\u002fpublications\u002fITU-R\u002fpages\u002fpublications.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "Radiocommunication \u0028ITU-R\u0029", webTemplate: "100001", tenantAppVersion: "0", isAppWeb: false, webLogoUrl: "\u002f_layouts\u002fimages\u002ftitlegraphic.gif", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-US", clientServerTimeDelta: new Date("2019-01-27T10:12:52.5429397Z") - new Date(), updateFormDigestPageLoaded: new Date("2019-01-27T10:12:52.5429397Z"), siteClientTag: "1568$$16.0.4783.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196673},pageListId:"{8c5ec356-f003-4bd8-949a-eb924044cd89}",pageItemId:3, pagePersonalizationScope:1,userId:12444,userLoginName:"itu_ersc\\devar", systemUserKey:"i:0\u0029.w|s-1-5-21-2477790347-3398468436-2619405814-231550", alertsEnabled:true, customMarkupInCalculatedFieldDisabled: true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True', isSiteAdmin: false};var L_Menu_BaseUrl="/en/publications/ITU-R";
+var L_Menu_LCID="1033";
+var L_Menu_SiteTheme="null";
+document.onreadystatechange=fnRemoveAllStatus; function fnRemoveAllStatus(){removeAllStatus(true)};Flighting.ExpFeatures = [480215056,1880287568,1561350208,302071836,3212816,69473024,4194310,-2113396707,268502022,-872284160,1049232,-2147421952,65536,65536,2097472,917504,-2147474174,1372324107,67108882,0,0,-2147483648,2097152,0,0,32768,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32768];var __SafeRunFunctionLoadedScripts = new Array();function SafeRunFunction(fnc, script, type){    if (!_spBodyOnLoadCalled)    {        __QueueFunctionForSafeRunFunction(fnc, script, type);        return;    }    var executed = ExecuteOrDelayUntilScriptLoaded(fnc, script);    if (executed)    {        return;    }    var loaded = false;    for (var i = 0; i < __SafeRunFunctionLoadedScripts.length; i++)    {        if (__SafeRunFunctionLoadedScripts[i].toLowerCase() != script.toLowerCase())        {            continue;        }        loaded = true;        break;    }    if (loaded)    {        return;    }    __SafeRunFunctionLoadedScripts.push(script);    SP.SOD.executeFunc(script, type, function(){});}var __SafeRunFunctionQueue = null;function __QueueFunctionForSafeRunFunction(fnc, script, type){    if (!__SafeRunFunctionQueue)    {        __SafeRunFunctionQueue = new Array();    }    var container = new Object();    container['Function'] = fnc;    container['Script']   = script;    container['Type']     = type;    __SafeRunFunctionQueue.push(container);}function __ProcessQueuedFunctions(){    if (!__SafeRunFunctionQueue ||          __SafeRunFunctionQueue.length <= 0)    {        return;    }    for (var i = 0; i < __SafeRunFunctionQueue.length; i++)    {        var container = __SafeRunFunctionQueue[i];        var fnc    = container['Function'];        var script = container['Script'];        var type   = container['Type'];        SafeRunFunction(fnc, script, type);    }    __SafeRunFunctionQueue = null;}_spBodyOnLoadFunctionNames.push('__ProcessQueuedFunctions'); (function()
+{
+    if(typeof(window.SP) == "undefined") window.SP = {};
+    if(typeof(window.SP.YammerSwitch) == "undefined") window.SP.YammerSwitch = {};
+
+    var ysObj = window.SP.YammerSwitch;
+    ysObj.IsEnabled = false;
+    ysObj.TargetYammerHostName = "www.yammer.com";
+} )(); //]]>
+</script>
+
+<script src="/_layouts/15/blank.js?rev=NmOVskhwSSoOY1fckuh2eQ%3D%3DTAG0" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+(function(){
+
+        if (typeof(_spBodyOnLoadFunctions) === 'undefined' || _spBodyOnLoadFunctions === null) {
+            return;
+        }
+        _spBodyOnLoadFunctions.push(function() {
+            SP.SOD.executeFunc('core.js', 'FollowingDocument', function() { FollowingDocument(); });
+        });
+    })();(function(){
+
+        if (typeof(_spBodyOnLoadFunctions) === 'undefined' || _spBodyOnLoadFunctions === null) {
+            return;
+        }
+        _spBodyOnLoadFunctions.push(function() {
+            SP.SOD.executeFunc('core.js', 'FollowingCallout', function() { FollowingCallout(); });
+        });
+    })();if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();function WebForm_OnSubmit() {
+UpdateFormDigest('\u002fen\u002fpublications\u002fITU-R', 1440000);if (typeof(_spFormOnSubmitWrapper) != 'undefined') {return _spFormOnSubmitWrapper();} else {return true;};
+return true;
+}
+//]]>
+</script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="770237A8" />
+</div>
+		
+		<!-- ===== STARTER: SharePoint Reqs this for adding columns ===================================================== -->
+		<script type="text/javascript">		    var submitHook = function () { return false; }; theForm._spOldSubmit = theForm.submit; theForm.submit = function () { if (!submitHook()) { this._spOldSubmit(); } }; </script>
+
+		<!-- ===== STARTER: Web Part Manager  ============================================================================================= -->
+				
+		
+			<!-- ===== STARTER: ScriptManager ===================================================== -->
+			<script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager', 'aspnetForm', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+		
+<!-- ITU template starts : language INdependent -->
+<!-- show ribbon at staging only  -->
+		
+<!-- ITU template ends -->
+			
+			<!-- ===== STARTER: Main Scrolling Body Starts Here =============================================================================== -->
+			<div id="s4-workspace">
+				<div id="s4-bodyContainer">
+				
+<!-- ITU template starts : language INdependent -->
+				        
+<!-- ITU template ends -->
+
+				<!-- ===== STARTER: This decides where the web part menu lives ===================================================== -->
+				<div id="ctl00_DeltaPlaceHolderMain">
+
+<!-- ITU template starts : language dependent -->
+
+<!-- Added Wrapper for SDG Logo by Rajani Vepa on 26 Aug 2016  -->
+<div class="wrapper" style="background:#fff url(/PublishingImages/masterpage/background/body-top-bg-219x10.png) repeat-x 0 0px;">
+
+<!-- Original Wrapper commented on 26 AUG 2016 for SDG Logo
+ <div class="wrapper" style="background:#fff url(/PublishingImages/masterpage/background/body-top-bg-184x10.png) repeat-x 0 -13px;">  -->
+
+<a name="TOP"></a>
+
+    <div class="container">
+    <div class="row">
+    	<div class="header">
+        <div class="col-21">
+           
+		<!--	<h1 class="logo"><a href="/en/" title="ITU"><img src="/PublishingImages/masterpage/logos/itu-logo.png" alt="ITU" /></a></h1> -->
+ <a href="/en/" title="ITU"><img class="logo" src="/PublishingImages/masterpage/logos/itu-logo.png" alt="ITU" /></a>
+
+
+
+            <div class="tagline lang-switcher">
+            	<h2>Committed to connecting the world</h2>
+            	
+<ul class="clearfix">
+	<li>
+		<a href="/ar/publications/ITU-R/Pages/publications.aspx?parent=R-REP-M.2411-2017">عربي</a>
+	</li>
+	<li>
+		<a href="/zh/publications/ITU-R/Pages/publications.aspx?parent=R-REP-M.2411-2017">中文</a>
+	</li>
+	<li>
+		<a href="/es/publications/ITU-R/Pages/publications.aspx?parent=R-REP-M.2411-2017">Español</a>
+	</li>
+	<li>
+		<a href="/fr/publications/ITU-R/Pages/publications.aspx?parent=R-REP-M.2411-2017">Français</a>
+	</li>
+	<li>
+		<a href="/ru/publications/ITU-R/Pages/publications.aspx?parent=R-REP-M.2411-2017">Русский</a>
+	</li>
+	<li>
+		Devar, Sendil Kumar (devar) <a href="/en/publications/ITU-R/_layouts/SignOut.aspx?Source=%2fen%2fpublications%2fITU-R%2fpages%2fpublications.aspx%3fparent%3dR-REP-M.2411-2017">Sign out</a>
+	</li>
+</ul>
+            </div><!--/.tagline .lang-switcher-->
+            
+             <!--Moved here the Search Box to be on the right Hand side on 26 AUG 2016 Rajani VEPA --Moved from right hand side to Left for SDGLOGO by Rajani Vepa -->        	
+            <div class="header-search">
+            	<label for="q">Search for:</label>
+                <input type="text" name="q" class="hsearch-input" value="What would you like to search for?" onkeypress="return entsub(event)" />
+                <a href="javascript:void(SearchSubmit())">
+	                <img src="/PublishingImages/masterpage/content/blank.gif" class="hsearch-btn" alt="Search" />
+                </a>
+			  <script type="text/javascript">
+			      function SearchSubmit() {
+			       window.location.href = "https://www.itu.int/search#?q=" + document.forms['aspnetForm'].q.value; 
+			        //  document.searchform.q.value = document.forms['aspnetForm'].q.value;
+			        //  document.searchform.submit();
+			      }
+
+			      function entsub(e) {
+			          var keyPressed;
+			          if (window.event)
+			              keyPressed = window.event.keyCode; // IE
+			          else
+			              keyPressed = e.which; // Firefox
+
+			          if (keyPressed == 13) {
+			              //alert("you hit enter key");
+			              SearchSubmit();
+			              return false;
+			          } else
+			              return true;
+			      }
+			  </script>
+            </div><!--/.header-search-->
+             <!--Ends here -- Moved from right hand side to here  by Rajani Vepa on 26 AUG 2016 for SDG logo  -->
+          
+            
+            <div class="clear"></div>
+        </div><!--/.col-21-->
+        <div class="col-11">    
+        
+
+   	<!--Added by Rajani Vepa on 04 Jan 2019   for wsis logo  -->
+		      <a href="https://www.itu.int/net4/wsis/forum/2019/" title="wsis" target="_blank"><img  src="/PublishingImages/masterpage/logos/wsis-logo-en.png" height="80"  style="padding-top:20px;float:right;" alt="wsis" /></a>
+		     <!--Ends here - Added by Rajani Vepa on 04 jan 2019  -->
+		     
+        
+        	   <!-- Removed the ITU150 Logo on 06 Jan 2016 by Rajani Vepa -
+		        	  	<!--Added by Rajani Vepa on 16 dec 2014 for ITU-150 logo  -->
+		        	    <!--<a href="http://www.itu150.org" title="ITU 150"><img  class="logo-itu150" src="/PublishingImages/masterpage/logos/itu-150-logo-web-banner.png" alt="ITU 150 " /></a> -->
+		        	    <!--Ends here - Added by Rajani Vepa on 16 dec 2014  -->
+		        	
+        	
+        	 <!-- Commented by Rajani Vepa on 19 sep 2018 to replace with PP-18 Logo -->
+        	<!--Added by Rajani Vepa on 26 AUG 2016  for SDG logo  -->
+		  <!--  <a href="/en/sustainable-world/Pages/default.aspx" title="SDGs"><img  class="logo-sdg" src="/PublishingImages/masterpage/logos/ict4sdglogo-transparent.png" height="55" style="padding-top:35px;" alt="ICTs for a Sustainable World #ICT4SDG" /></a> -->
+		    <!--Ends here - Added by Rajani Vepa on26 AUG 2016  for SDG logo   -->
+		        	
+
+
+				<!--Added by Rajani Vepa on 19 sep 2018   for PP-18 logo  -->
+		<!--    <a href="https://www.itu.int/web/pp-18/en/" title="PP-18" target="_blank"><img  src="/PublishingImages/masterpage/logos/PP18-ITUHomepageLogo-en.png" height="120"  style="padding-top:5px;float:right;" alt="PP-18 coneference" /></a> -->
+		     <!--Ends here - Added by Rajani Vepa on 19 sep 2018  -->
+		   
+
+
+            
+        </div><!--/.col-11-->
+    	</div><!--/.header-->
+    </div><!--/.row-->
+    
+    <div class="row">
+    
+    <div class="col-32">
+	    <div id="mainnav-master" class="main-nav">
+			
+<ul class="clearfix">
+	<li class="home mn01 active">
+		<a href="/en/Pages/default.aspx">ITU</a>
+		<ul class="clearfix">
+			<li class="sub-nav">
+				<a href="/en/about">About ITU</a>
+			</li>
+			<li class="sub-nav">
+				<a href="/en/mediacentre/Pages/default.aspx">Media Centre</a>
+			</li>
+			<li class="sub-nav">
+				<a href="/en/events">Events</a>
+			</li>
+			<li class="sub-nav">
+				<a href="/en/publications">Publications</a>
+			</li>
+			<li class="sub-nav">
+				<a href="/en/ITU-D/Statistics">Statistics</a>
+			</li>
+			<li class="sub-nav">
+				<a href="/en/action">Areas of Action</a>
+			</li>
+			<li class="sub-nav">
+				<a href="/en/ITU-D/Pages/Regional-Presence.aspx">Regional Presence</a>
+			</li>
+			<li class="sub-nav">
+				<a href="/en/careers">Careers</a>
+			</li>
+		</ul>
+	</li>
+	<li class="mn02">
+		<a href="/en/general-secretariat/Pages/default.aspx">General Secretariat</a>
+	</li>
+	<li class="mn03 radiocommunication">
+		<a href="/en/ITU-R">Radiocommunication</a>
+	</li>
+	<li class="mn04">
+		<a href="/en/ITU-T/Pages/default.aspx">Standardization</a>
+	</li>
+	<li class="mn05">
+		<a href="/en/ITU-D">Development</a>
+	</li>
+	<li class="mn06">
+		<a href="/en/itutelecom">ITU Telecom</a>
+	</li>
+	<li class="mn07">
+		<a href="/en/membership">Members&#39; Zone</a>
+	</li>
+	<li class="join-itu">
+		<a href="/en/join">Join ITU</a>
+	</li>
+</ul>
+	    </div><!--/.main-nav-->
+        
+    </div><!--/.col-32-->
+    
+    </div><!--/.row-->
+
+    <div id="pagetitle" class="row">
+        
+    </div><!--/.row-->
+    
+    <div id="breadcrumb" class="row">
+    	<div class="col-32 breadcrumb">
+    	<div class="col-24 col-first">
+        	<p>
+        		<em>You are here</em> 
+		<span id="ctl00_SiteMapPath1"><a href="#ctl00_SiteMapPath1_SkipLink"><img alt="Skip Navigation Links" src="/WebResource.axd?d=pCssjX-hFzDYy3w5afhqh0wDMLrsPwqjTin9aUIwWoQolpTATflsoS5TSSClzEUTuU94SVvKIDcB6jVD8MAtXzx-uoCYs5KyhmiTxvYBx3k1&amp;t=636776761224055265" width="0" height="0" style="border-width:0px;" /></a><span><a href="/en/Pages/default.aspx">Home</a></span><span> &gt; </span><span><a title="ITU Publications
+" href="/en/publications/Pages/default.aspx">ITU Publications</a></span><span> &gt; </span><span><a href="/en/publications/ITU-R/Pages/default.aspx">Radiocommunication (ITU-R)</a></span><span> &gt; </span><span>publications</span><a id="ctl00_SiteMapPath1_SkipLink"></a></span>
+        	</p>
+        </div><!--/.col-24-->
+    	<div class="col-8 col-last">
+        	<div class="share-this clearfix"> 
+                <p>Share</p>
+                <div class="addthis_toolbox">
+                   <div class="custom_images">
+                      <a class="addthis_button_facebook"><img src="/PublishingImages/masterpage/buttons/facebook-round.png" alt="Share on Facebook" /></a>
+                      <a class="addthis_button_twitter"><img src="/PublishingImages/masterpage/buttons/twitter-round.png" alt="Share on twitter" /></a>
+                      <a class="addthis_button_linkedin"><img src="/PublishingImages/masterpage/buttons/linkedin-round.png" alt="Share on LinkedIn" /></a>
+                      <a class="addthis_button_email"><img src="/PublishingImages/masterpage/buttons/email-round.png" alt="Share via email" /></a>
+                   </div><!--/.custom_images-->
+                </div><!--/.addthis_toolbox-->
+            </div><!--/.share-this-->
+        </div><!--/.col-8 page-heading-->
+        </div><!--/.col-32 breadcrumb-->
+    </div><!--/.row-->
+<!-- ITU template ends -->
+<!-- Print Section // -->
+
+							<!-- ===== STARTER: Main Placeholder gets replaced with content of the page ======================================= -->
+							
+
+    
+    
+
+    <style type="text/css">
+        #pagetitle{display:none;}
+        #breadcrumb{display:none;}
+    </style>
+
+    <div class="row" style="background: url(/PublishingImages/masterpage/background/body-map-bg.gif) no-repeat center 0;">
+	    <div class="col-22 page-heading">
+    	    <h1>
+			    Requirements, evaluation criteria and submission templates for the development of IMT-2020
+		    </h1>
+        </div><!--/.col-22 page-heading-->
+	    <div class="col-10 col-last">
+            <div class="shoppingcart">
+	            
+	            
+	            
+                <span class="ShowCartImage">
+                    <a id="ctl00_PlaceHolderMain_lnkShowCartImage" href="https://www.itu.int/itu_mt_main/salestransactions/basket.jsf?wec-appid=EBOOKSHOP_B2B&amp;wec-locale=en_US"><img src="/en/publications/PublishingImages/basket.gif" alt="Shopping cart" /></a>
+                </span>
+	            <a id="ctl00_PlaceHolderMain_lnkShowCart" href="https://www.itu.int/itu_mt_main/salestransactions/basket.jsf?wec-appid=EBOOKSHOP_B2B&amp;wec-locale=en_US">Shopping cart</a>
+            </div><!--/.shoppingcart-->
+	    </div><!--/.col-10 col-last-->
+    </div><!--/.row-->
+    
+    <div class="row">
+    	<div class="col-32 breadcrumb">
+    	<div class="col-24 col-first">
+        	<p>
+        		<em><span id="ctl00_PlaceHolderMain_lblYouAreHere">You are here</span></em>
+                <a href="/en">Home</a> > <a href="/en/publications">ITU Publications</a> > <a href="/en/publications/ITU-R">Radiocommunication (ITU-R)</a> > <a href="/en/publications/ITU-R/Pages/R-REP.aspx">ITU-R Reports</a> > <a href="/en/publications/ITU-R/Pages/publications.aspx?parent=R-REP-M">Mobile, radiodetermination, amateur and related satellite services</a> > <a href="/en/publications/ITU-R/Pages/publications.aspx?parent=R-REP-M.2411">Requirements, evaluation criteria and submission templates for the development of IMT-2020</a> > 
+        	</p>
+        </div><!--/.col-24-->
+    	<div class="col-8 col-last">
+        	<div class="share-this clearfix"> 
+                <p><span id="ctl00_PlaceHolderMain_lblShare">Share</span></p>
+                <div class="addthis_toolbox">
+                   <div class="custom_images">
+                      <a class="addthis_button_facebook"><img src="/PublishingImages/masterpage/buttons/facebook-round.png" alt="Share on Facebook" /></a>
+                      <a class="addthis_button_twitter"><img src="/PublishingImages/masterpage/buttons/twitter-round.png" alt="Share on twitter" /></a>
+                      <a class="addthis_button_linkedin"><img src="/PublishingImages/masterpage/buttons/linkedin-round.png" alt="Share on LinkedIn" /></a>
+                      <a class="addthis_button_email"><img src="/PublishingImages/masterpage/buttons/email-round.png" alt="Share via email" /></a>
+                   </div><!--/.custom_images-->
+                </div><!--/.addthis_toolbox-->
+            </div><!--/.share-this-->
+        </div><!--/.col-8 page-heading-->
+        </div><!--/.col-32 breadcrumb-->
+    </div><!--/.row-->
+
+    <div class="row">
+        <div class="col-22 content">
+            <span></span><table border="0" width="100%" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:user="http://mycompany.com/mynamespace">
+  <tr>
+    <td width="40%">
+      <table border="0">
+        <tr>
+          <td style="font-size: 9pt;">
+            <p><b>Report M.2411-0 (11/2017)</b></p>
+          </td>
+        </tr>
+        <tr>
+          <td style="font-size: 9pt;">
+            <p>Approved in 2017-11</p>
+          </td>
+        </tr>
+        <tr>
+          <td style="font-size: 9pt;">
+            <p>Status :  In force <font color="green"><b>(Main)</b></font>
+            </p>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td width="60%" valign="top">
+      <table border="0" width="100%">
+        <tr>
+          <td width="80%">   </td>
+          <td align="right" bgcolor="#FFFF80" style="font-size: 9pt;">
+            <p><a href="/dms_pub/itu-r/opb/rep/R-REP-M.2411-2017-TOC-HTM-E.htm" target="_blank"><b><font size="1">Table of Contents </font></b></a></p>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2"></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="font-size: 9pt;">
+      <p>Access : 
+	Free Download </p>
+    </td>
+  </tr>
+</table>
+<hr xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:user="http://mycompany.com/mynamespace">
+<table border="0" width="100%" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:user="http://mycompany.com/mynamespace">
+  <tr>
+    <td>
+      <p><b>Available languages and formats :</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table border="0">
+        <tr>
+          <td>  </td>
+          <td colspan="2">
+            <table>
+              <tr>
+                <td align="left"><img border="0" src="/en/publications/PublishingImages/arrow_down.gif" width="24" height="24"></td>
+                <td vAlign="top">
+                  <p align="left"><b><font color="#000080" size="1">Click on the selected format <br> and language to get the document </font></b></p>
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td>  </td>
+          <td>  </td>
+        </tr>
+        <tr valign="bottom">
+          <td></td>
+          <td width="130"><b><font size="1" color="#000000">Format </font></b></td>
+          <td width="100"><b><font size="1" color="#000000">Size </font></b></td>
+          <td width="40"><b><font size="1" color="#000000">Posted </font></b></td>
+          <td width="80"><b><font size="1" color="#000000">Article Number </font></b></td>
+        </tr>
+        <tr>
+          <td align="right" height="2"><b><font size="1" color="#000000"><spacer height="2" width="1" type="block"></spacer></font></b></td>
+          <td align="right" bgColor="black" height="2" colspan="7"><b><font size="1" color="#000080"><spacer height="2" width="1" type="block"></spacer></font></b></td>
+        </tr>
+        <tr>
+          <td align="middle" vAlign="middle"><b><font size="1" color="#000000">English </font></b></td>
+          <td bgColor="#FFFF80" width="130">
+            <p><a href="/dms_pub/itu-r/opb/rep/R-REP-M.2411-2017-MSW-E.docx"><img border="0" src="/en/publications/PublishingImages/wordIconMini.gif" align="middle" width="16" height="16"><b><font size="1"> Word for Windows </font></b></a></p>
+          </td>
+          <td align="right" bgColor="#FFFFCC" width="100"><b><font size="1" color="#000080">3116259 bytes </font></b></td>
+          <td align="center" bgColor="#FFFFCC" width="70"><b><font size="1" color="#000080">2017-12-12</font></b></td>
+          <td align="center" bgColor="#FFFFCC" width="70"><b><font size="1" color="#000080">E 70000 </font></b></td>
+        </tr>
+        <tr>
+          <td align="middle" vAlign="middle"><b><font size="1" color="#000000"> </font></b></td>
+          <td bgColor="#FFFF80" width="130">
+            <p><a href="/dms_pub/itu-r/opb/rep/R-REP-M.2411-2017-PDF-E.pdf"><img border="0" src="/en/publications/PublishingImages/pdfIconMini.gif" align="middle" width="16" height="16"><b><font size="1"> PDF (acrobat) </font></b></a></p>
+          </td>
+          <td align="right" bgColor="#FFFFCC" width="100"><b><font size="1" color="#000080">850601 bytes </font></b></td>
+          <td align="center" bgColor="#FFFFCC" width="70"><b><font size="1" color="#000080">2017-12-12</font></b></td>
+          <td align="center" bgColor="#FFFFCC" width="70"><b><font size="1" color="#000080"> </font></b></td>
+        </tr>
+        <tr>
+          <td align="right" height="2"><b><font size="1" color="#000000"><spacer height="2" width="1" type="block"></spacer></font></b></td>
+          <td align="right" bgColor="black" height="2" colspan="7"><b><font size="1" color="#000080"><spacer height="2" width="1" type="block"></spacer></font></b></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<hr xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:user="http://mycompany.com/mynamespace">
+        </div><!--/.col-22-->
+        
+<div id="ctl00_PlaceHolderMain_ctl00_RightMenu" class="col-10 sidebar"><div class="module module-tabs _invisibleIfEmpty">
+    <ul class="tabs clearfix">
+        <li class="_invisibleIfEmpty" style="width:92px">
+            <a href="#tab1">
+                <span>QUICK LINKS</span>
+            </a>
+        </li>
+    </ul>
+    <div class="tab-box " id="tab1">
+        <div class="module-content">
+            <div class="contentNew _invisibleIfEmpty">
+                <div id="ctl00_PlaceHolderMain_ctl64_ctl00__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_ctl64_ctl00_label">
+                    <span>
+                        <ul class="ms-rteStyle-ITUXCommuQuickLinks">
+                            <li><a href="https://www.itu.int/net4/ITU-T/search/ThematicSearch">Search publications</span></a></li>
+                            <li><a href="/en/publications/Pages/Newreleases.aspx">New releases</a></li>
+                            <li><a href="/en/publications/Pages/best-sellers.aspx">Featured</a></li>
+                            <li><a href="/en/publications/Pages/pubnoticelist.aspx">Publication Notices</font></span></a> </li>
+                            <li><a href="/dms_pub/itu-s/opb/gen/S-GEN-CAT.OL-2018-PDF-E.pdf" target="_blank">Publication Catalogue</a></li>
+                            <li><a href="/en/publications/Pages/Epub.aspx">Accessible publications</a></li>
+
+                        </ul>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="module module-blue module-greybg _invisibleIfEmpty">
+    <div class="contentNew  module-content _invisibleIfEmpty">
+        <div class="module-header _invisibleIfEmpty">
+            <h2>Publications by Sector</h2>
+        </div>
+        
+        <div class="home-block" style="margin: 0px 0px 0px 5px; width: 100%;">
+<div class="accordion">
+<dl class="ui-accordion ui-widget ui-helper-reset ui-accordion-icons" role="tablist">
+<dt class="ui-accordion-header ui-helper-reset ui-state-active ui-corner-top ui-state-default ui-corner-all" role="tab" aria-expanded="false" aria-selected="false" style="border-top-style: none;">General Secretariat and ITU Telecom</dt>
+<dd class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom ui-accordion-content-active" role="tabpanel" style="padding: 0px 0px 0px 15px; overflow: visible; display: none;">
+            <ul class="ms-rteStyle-ITUXCommuQuickLinks">
+               <li style="font-size: 8pt;">
+                  <a href="/en/publications/gs/Pages/default.aspx">General Secretariat and Telecom</a></li>
+               <li style="font-size: 8pt;">      
+                  <a href="/en/publications/gs/Pages/S-GEN.aspx">General</a></li>
+               <li style="font-size: 8pt;">      
+                  <a href="/en/publications/gs/Pages/S-CONF.aspx">Conference Publications</a></li>
+               <li style="font-size: 8pt;">      
+                  <a href="/en/publications/gs/Pages/S-POL.aspx">Policy and Market Analysis</a></li>
+               <li style="font-size: 8pt;">      
+                  <a href="/en/publications/gs/Pages/S-TERM.aspx">Terminology</a></li>
+               <li style="font-size: 8pt;">      
+                  <a href="/en/publications/gs/Pages/S-TLC.aspx">ITU TELECOM Publications</a></li>
+               <li style="font-size: 8pt;">      
+                  <a href="/pub/S-JOURNAL">ITU Journal</a></li>
+            </ul>
+</dd>
+<dt tabindex="-1" class="ui-accordion-header ui-helper-reset ui-state-active ui-corner-top ui-state-default ui-corner-all" role="tab" aria-expanded="false" aria-selected="false" style="border-top-style: none;">Radiocommunication (ITU-R)</dt>
+         <dd class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom ui-accordion-content-active" role="tabpanel" style="padding: 0px 0px 0px 15px; overflow: visible; display: none;">
+         <ul class="ms-rteStyle-ITUXCommuQuickLinks">
+               <li style="font-size: 8pt;">
+                  <a href="/en/publications/ITU-R/Pages/default.aspx">Radiocommunication (ITU-R)</a></li>
+              <li style="font-size: 8pt;">      
+                  <a href="/en/publications/ITU-R/Pages/R-GEN.aspx">General Publications</a></li>
+               <li style="font-size: 8pt;">
+                  <a href="/en/publications/ITU-R/Pages/R-REG.aspx">Regulatory Publications</a></li>
+              <li style="font-size: 8pt;">      
+                  <a href="/en/publications/ITU-R/Pages/R-ACT.aspx">Conference Publications</a></li>
+               <li style="font-size: 8pt;">
+                  <a href="/en/publications/ITU-R/Pages/R-QUE.aspx">ITU-R Questions</a></li>
+              <li style="font-size: 8pt;">      
+                  <a href="/en/publications/ITU-R/Pages/R-RES.aspx">ITU-R Resolutions</a></li>
+               <li style="font-size: 8pt;">
+                  <a href="/en/publications/ITU-R/Pages/R-SP.aspx">Service Publications</a></li>
+              <li style="font-size: 8pt;">      
+                  <a href="/en/publications/ITU-R/Pages/R-REC.aspx">ITU-R Recommendations</a></li>
+               <li style="font-size: 8pt;">
+                  <a href="/en/publications/ITU-R/Pages/R-REP.aspx">ITU-R Reports</a></li>
+              <li style="font-size: 8pt;">      
+                  <a href="/en/publications/ITU-R/Pages/R-HDB.aspx">Handbooks</a></li>
+               <li style="font-size: 8pt;">
+                  <a href="/en/publications/ITU-R/Pages/R-OP.aspx">ITU-R Opinions</a></li>
+              <li style="font-size: 8pt;">      
+                  <a href="/en/publications/ITU-R/Pages/R-SOFT.aspx">Software and Databases</a></li>
+               <li style="font-size: 8pt;">
+                  <a href="/en/publications/ITU-R/Pages/R-TER.aspx">Terminology</a></li>
+              </ul>
+         </dd>
+<dt tabindex="-1" class="ui-accordion-header ui-helper-reset ui-state-active ui-corner-top ui-state-default ui-corner-all" role="tab" aria-expanded="false" aria-selected="false" style="border-top-style: none;">Standardization (ITU-T)</dt>
+         <dd class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom ui-accordion-content-active" role="tabpanel" style="padding: 0px 0px 0px 15px; overflow: visible; display: none;">
+            <ul class="ms-rteStyle-ITUXCommuQuickLinks">
+			   <li style="font-size: 8pt;">
+                  <a href="/en/publications/ITU-T/Pages/default.aspx">Standardization (ITU-T)</a></li>
+               <li style="font-size: 8pt;">      
+                  <a href="/en/publications/ITU-T/Pages/T-GEN.aspx">General</a></li>
+				  <li style="font-size: 8pt;">      
+                  <a href="/en/publications/ITU-T/Pages/T-REG.aspx">Regulations</a></li>
+               <li style="font-size: 8pt;">
+                  <a href="/en/publications/ITU-T/Pages/T-RES.aspx">Resolutions and Opinions</a></li>
+               <li style="font-size: 8pt;">      
+                  <a href="/en/publications/ITU-T/Pages/T-REC.aspx">ITU-T Recommendations</a></li>
+               <li style="font-size: 8pt;">      
+                  <a href="/en/publications/ITU-T/Pages/T-SP.aspx">Service Publications</a></li>
+               <li style="font-size: 8pt;">      
+                  <a href="/en/publications/ITU-T/Pages/T-HDB.aspx">Handbooks</a></li>
+               <li style="font-size: 8pt;">      
+                  <a href="/en/publications/ITU-T/Pages/T-PROC.aspx">Proceedings</a></li>
+               <li style="font-size: 8pt;">      
+                  <a href="/en/publications/ITU-T/Pages/T-FG.aspx>Focus Groups publications</a></li>
+               <li style="font-size: 8pt;">      
+                  <a href="/en/publications/ITU-T/Pages/T-MIR.aspx">Test charts</a></li>
+               <li style="font-size: 8pt;">      
+                  <a href="/en/publications/ITU-T/Pages/T-TUT.aspx">Technical papers and tutorials</a></li>
+               <li style="font-size: 8pt;">      
+                  <a href="/en/publications/ITU-T/Pages/T-TER.aspx">Terminology</a></li>
+			  </ul>
+         </dd>
+<dt tabindex="-1" class="ui-accordion-header ui-helper-reset ui-state-active ui-corner-top ui-state-default ui-corner-all" role="tab" aria-expanded="false" aria-selected="false" style="border-top-style: none;">Development (ITU-D)</dt>
+         <dd class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom ui-accordion-content-active" role="tabpanel" style="padding: 0px 0px 0px 15px; overflow: visible; display: none;">
+            <ul class="ms-rteStyle-ITUXCommuQuickLinks">
+               <li style="font-size: 8pt;">
+                  <a href="/en/publications/ITU-D/Pages/default.aspx">Development (ITU-D)</a></li>
+               <li style="font-size: 8pt;">      
+                  <a href="/en/publications/ITU-D/Pages/D-GEN.aspx">General</a></li>
+               <li style="font-size: 8pt;">
+                  <a href="/en/publications/ITU-D/Pages/D-PREF.aspx">Publications on ICT Regulation, Economics and Finance</a></li>
+               <li style="font-size: 8pt;">      
+                  <a href="/en/publications/ITU-D/Pages/D-IND.aspx">Statistics and Indicators</a></li>
+               <li style="font-size: 8pt;">
+                  <a href="/en/publications/ITU-D/Pages/D-STG.aspx">Study Groups</a></li>
+               <li style="font-size: 8pt;">      
+                  <a href="/en/publications/ITU-D/Pages/D-TDC.aspx">Conference Publications</a></li>
+               <li style="font-size: 8pt;">      
+                  <a href="/en/publications/ITU-D/Pages/D-INNO.aspx">Innovation</a></li>
+               <li style="font-size: 8pt;">
+                  <a href="/en/publications/ITU-D/Pages/D-OPER.aspx">Operators</a></li>
+               <li style="font-size: 8pt;">      
+                  <a href="/en/publications/ITU-D/Pages/D-LDC.aspx">Least Developed Countries</a></li>
+               <li style="font-size: 8pt;">
+                  <a href="/en/publications/ITU-D/Pages/D-HDB.aspx">Handbooks</a></li>
+               <li style="font-size: 8pt;">      
+                  <a href="/en/publications/ITU-D/Pages/D-STR.aspx">E-Strategies</a></li>
+               <li style="font-size: 8pt;">      
+                  <a href="/en/publications/ITU-D/Pages/publications.aspx?parent=D-PHCB">Publications on human and institutional capacity building and digital inclusion</a></li>
+            </ul>
+         </dd>
+</dl>
+</div>
+</div>&#160;
+
+
+    </div>
+</div>
+
+<div class="module  module-blue module-greybg _invisibleIfEmpty">
+    <div class="contentNew  module-content _invisibleIfEmpty">
+        <div class="module-header _invisibleIfEmpty">
+            <h2>Further Information</h2>
+        </div>
+        <div id="ctl00_PlaceHolderMain_ctl103__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_ctl103_label">
+            <ul class="ms-rteStyle-ITUXCommuQuickLinks">
+                <li><a href="/en/publications/Pages/Souvenirs.aspx">ITU Souvenirs</a></li>
+                <li><a href="/en/publications/Pages/Resellers.aspx">ITU Resellers</a></li>
+                <li><a href="/en/publications/Pages/CondSale.aspx">Conditions of sale</a></li>
+                <li><a href="/en/publications/Pages/Howtobuy.aspx">FAQ</a></li>
+                <li><a href="/en/publications/Pages/Contact.aspx">Contact</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+</div><!--/.col-10 sidebar-->
+
+    </div><!--/.row-->
+
+<div style='display:none' id='hidZone'><menu class="ms-hide">
+	<ie:menuitem id="MSOMenu_Help" iconsrc="/_layouts/15/images/HelpIcon.gif" onmenuclick="MSOWebPartPage_SetNewWindowLocation(MenuWebPart.getAttribute('helpLink'), MenuWebPart.getAttribute('helpMode'))" text="Help" type="option" style="display:none">
+
+	</ie:menuitem>
+</menu></div>
+
+<!-- Print Section // -->
+<!-- ITU template starts : language dependent -->
+    <div class="row follow">
+    	<div class="col-18">
+        	<div class="social">
+            	<ul class="clearfix">
+                	
+                 <!--	<li><em>Follow us</em></li> Commented by Rajani Vepa on 28 Jan 2014 -->
+                    <li><a href="/en/Pages/social-media.aspx " style="background-image:none; text-indent:0px; width:80px;"><em>Follow us</em></a></li>              	
+                    <li><a href="/twitter" class="twitter">Twitter</a></li>
+                    <li><a href="/facebook" class="facebook">Facebook</a></li>
+                    <li><a href="/youtube" class="youtube">YouTube</a></li>
+                    <li><a href="/flickr" class="flickr">Flickr</a></li>				
+					<li><a href="https://www.linkedin.com/company/international-telecommunication-union" rel="publisher" class="linkedin">Linkedin</a></li>
+					<li><a href="https://www.instagram.com/ituofficial/" class="instagram">Instagram</a></li>				
+					
+				<!-- commented on 09 oct 2018 - Rajani Vepa	<li><a href="/gplus" class="gplus">gplus</a></li> -->
+
+                </ul>
+            </div><!--/.social-->
+        </div><!--/.col-18-->
+        <div class="col-14">
+            
+        </div><!--/.col-14-->
+    </div><!--/.row-->
+    
+    <div class="row row-back-to-top">
+    	<div class="col-32 footer">
+    	<div class="col-16 col-first">
+        	<p>&copy; ITU <span id="copyright_year"></span> All Rights Reserved</p>
+        </div><!--col-16-->
+        <div class="col-16 col-last">
+        	<ul class="clearfix">
+            	<li><a href="/home/feedback/index.phtml">Feedback</a></li>
+                <li><a href="/home/contact/index.html">Contact Us</a></li>
+                <li>  </li>
+                <li><a href="/en/Pages/accessibility.aspx">Accessibility</a></li>
+            </ul>
+        </div><!--col-16-->
+ 
+		<a href="#TOP" class="go-to-top">Back to top</a>
+
+        </div><!--/.col-32-->
+    </div><!--/.row .footer-->
+    
+    </div><!--/.container-->
+    
+</div><!--/.wrapper-->
+</div><!--/#DeltaPlaceHolderMain-->
+
+<!-- addthis javascript link -->
+
+<!--<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e9c3a3c258dc7e3"></script>
+-->
+<!-- Rajani Vepa -  Updated the Link on 16 Oct 2017 and added https://s7...  Since the Share button was not working in Chrome as ITU is using HTTPS 
+<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=iturss"></script>-->
+
+<script type="text/javascript" src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=iturss"></script>
+
+
+<!-- ITU template ends -->
+
+				</div>
+			</div>
+			<!-- ===== STARTER: Main Scrolling Body Ends Here ================================================================================= -->
+			
+			<!-- ===== STARTER: Needed for form stuff ========================================================================================= -->
+			
+				<script type="text/javascript">//<![CDATA[
+        var formDigestElement = document.getElementsByName('__REQUESTDIGEST')[0];
+        if (!((formDigestElement == null) || (formDigestElement.tagName.toLowerCase() != 'input') || (formDigestElement.type.toLowerCase() != 'hidden') ||
+            (formDigestElement.value == null) || (formDigestElement.value.length <= 0)))
+        {
+            formDigestElement.value = '0x58ADF3EBE2FE0041FE546461EF29B3326DC9A09430FCEA489540E4D1E924568A7CC6DF5BE973521E9E9A833C54A0F126C204F8C0B242AA5A6B05C11BB7A977E2,27 Jan 2019 10:12:54 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();
+        }
+        //]]>
+        </script>
+			
+		
+			<!-- ===== STARTER: Hidden Placeholders =========================================================================================== -->	
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+<!-- ITU template starts : language INdependent -->
+<!-- own defined place holder, used in some old layouts  -->
+            
+<!-- ITU template ends -->
+
+		
+
+<script type="text/javascript">
+//<![CDATA[
+var _spFormDigestRefreshInterval = 1440000;function GetPageNormalizedUrl(){    alert('This SharePoint Tags And Notes Tool link is out of date. To get the latest Tags And Notes Tool, click OK. In the Tags and Note Board dialog, click the My Tags link. From here you can access the new SharePoint Tags And Notes tool.');    return document.location.href;}var _openTagDialog_DialogUrl = '';var _openTagDialog_PageUrl = '';function OpenTagDialog(dialogUrl){    _openTagDialog_DialogUrl = dialogUrl;    _openTagDialog_PageUrl = 'https:\u002f\u002fwww.itu.int\u002fpub\u002fR-REP-M.2411-2017';    SafeRunFunction(_OpenTagDialogInternal, 'SocialData.js', 'TagDialogOpener');}
+var callBackFrameUrl='/WebResource.axd?d=47yz9ZVWxqohR14CStMnKluOd-kQ43_Nma0RdnlyPTrZOAXHiSPEQ5joKOl9WlETTbeOv3DjMKldnliP2f6xP82eSQF2NKX879XKScWkTKU1&t=636776761224055265';
+WebForm_InitCallback();ExecuteOrDelayUntilScriptLoaded(function() {    InitializeSocialRibbonComponentWrapper('ctl00_ctl12', true, true, '{8c5ec356-f003-4bd8-949a-eb924044cd89}', 'Add Tag...', 'Verifying ...', 'https:\u002f\u002fwww.itu.int\u002fpub\u002fR-REP-M.2411-2017', 'Tagged this page with \u0027I Like It.\u0027', 'Failed tagging this page.', 'Add Tag...', function() { WebForm_DoCallback('ctl00$ctl12',Sys.Serialization.JavaScriptSerializer.serialize(request),Function.createDelegate(ribbonComponent, ribbonComponent._OnSucceededCallback),notificationId,Function.createDelegate(ribbonComponent, ribbonComponent._OnFailedCallback),true) });}, 'socialdata.js');function ctl00_ctl12_SocialNavControl_insertMyProfileMenu() {    SP.SOD.executeFunc('socialdata.js', 'InsertMyProfileMenu', function() {        InsertMyProfileMenu('https:\u002f\u002fextranet.itu.int\u002fpersonal\u002fmysite\u002fPerson.aspx', 'View and manage your profile.', 'About Me', 'https:\u002f\u002fextranet.itu.int\u002fpersonal\u002fmysite\u002f_layouts\u002f15\u002fEditProfile.aspx?UserSettingsProvider=234bf0ed\u00252D70db\u00252D4158\u00252Da332\u00252D4dfd683b4148\u0026ReturnUrl=https\u00253A\u00252F\u00252Fwww\u00252Eitu\u00252Eint\u00252Fpub\u00252FR\u00252DREP\u00252DM\u00252E2411\u00252D2017', 'Update your profile, as well as your language and regional settings.', '', '', '', true, false);    });}if (typeof(_spBodyOnLoadFunctionNames) != 'undefined' && _spBodyOnLoadFunctionNames != null) { _spBodyOnLoadFunctionNames.push('ctl00_ctl12_SocialNavControl_insertMyProfileMenu'); } IsSPSocialSwitchEnabled = function() { return true; };var _fV4UI = true;
+function _RegisterWebPartPageCUI()
+{
+    var initInfo = {editable: false,isEditMode: false,allowWebPartAdder: false,listId: "{8c5ec356-f003-4bd8-949a-eb924044cd89}",itemId: 3,recycleBinEnabled: true,enableMinorVersioning: true,enableModeration: false,forceCheckout: true,rootFolderUrl: "\u002fen\u002fpublications\u002fITU-R\u002fPages",itemPermissions:{High:16,Low:196673}};
+    SP.Ribbon.WebPartComponent.registerWithPageManager(initInfo);
+    var wpcomp = SP.Ribbon.WebPartComponent.get_instance();
+    var hid;
+    hid = document.getElementById("_wpSelected");
+    if (hid != null)
+    {
+        var wpid = hid.value;
+        if (wpid.length > 0)
+        {
+            var zc = document.getElementById(wpid);
+            if (zc != null)
+                wpcomp.selectWebPart(zc, false);
+        }
+    }
+    hid = document.getElementById("_wzSelected");
+    if (hid != null)
+    {
+        var wzid = hid.value;
+        if (wzid.length > 0)
+        {
+            wpcomp.selectWebPartZone(null, wzid);
+        }
+    }
+};
+function __RegisterWebPartPageCUI() {
+ExecuteOrDelayUntilScriptLoaded(_RegisterWebPartPageCUI, "sp.ribbon.js");}
+_spBodyOnLoadFunctionNames.push("__RegisterWebPartPageCUI");var __wpmExportWarning='This Web Part Page has been personalized. As a result, one or more Web Part properties may contain confidential information. Make sure the properties contain information that is safe for others to read. After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.';var __wpmCloseProviderWarning='You are about to close this Web Part.  It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.  To close this Web Part, click OK.  To keep this Web Part, click Cancel.';var __wpmDeleteWarning='You are about to permanently delete this Web Part.  Are you sure you want to do this?  To delete this Web Part, click OK.  To keep this Web Part, click Cancel.';var g_clientIdDeltaPlaceHolderMain = "ctl00_DeltaPlaceHolderMain";
+Sys.Application.add_init(function() {
+    $create(ITU.Publications.PublicationsJS, {"_addcart_action_for_electronic":"https://www.itu.int/opb/createxml.aspx","_addcart_action_for_others":"https://www.itu.int/opb/addcartjump.aspx","_itemdetail_popup":"https://www.itu.int/opb/itemdetails.aspx","_publication_notice_popup":"https://www.itu.int/opb/pubnotices_pop.aspx","id":"idPublicationsJS"}, null, null, $get("ctl00_PlaceHolderMain_PublicationsJS1"));
+});
+//]]>
+</script>
+</form>
+<!-- ITU template starts : language INdependent -->
+       
+		<form name="AddToCart" action="" method="">
+			<input type="hidden" name="ArticleNumber" />
+			<input type="hidden" name="ArticleLanguage" />
+			<input type="hidden" name="ArticlePrice" />
+			<input type="hidden" name="ArticleTitle" />
+			<input type="hidden" name="ArticleType" />
+			<input type="hidden" name="ArticleSubType" />
+			<input type="hidden" name="varURL" />
+			<input type="hidden" name="choice" />
+			<input type="hidden" name="folder" />
+		</form>
+
+
+	<form action="https://www.itu.int/net/itu_search/index.aspx" name="searchform">
+	  <input type="hidden" name="cx" value="001276825495132238663:nqzm45z846q" />
+	  <input type="hidden" name="cof" value="FORID:9" />
+	  <input type="hidden" name="ie" value="UTF-8" />
+	  <input type="hidden" name="q" />
+	</form>
+<script type="text/javascript">
+    //<![CDATA[
+    setCopyRightYear();
+    // Fix for the name.dll ActitveX issue.
+    function ProcessImn() { }
+    // 27.9.2013
+    $("a").removeClass("itu-navheader");
+    //]]>
+</script>
+
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- Copyright (c) 1996-2014 Webtrends Inc.  All rights reserved. -->
+<!-- Version: 9.4.0 -->
+<!-- Tag Builder Version: 4.1  -->
+<!-- Created: 10/15/2014 8:08:50 AM -->
+<script src="/js/webtrends.js" type="text/javascript"></script>
+<!-- ----------------------------------------------------------------------------------- -->
+<!-- Warning: The two script blocks below must remain inline. Moving them to an external -->
+<!-- JavaScript include file can cause serious problems with cross-domain tracking.      -->
+<!-- ----------------------------------------------------------------------------------- -->
+<script type="text/javascript">
+//<![CDATA[
+var _tag=new WebTrends();
+_tag.dcsGetId();
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_tag.dcsCustom=function(){
+// Add custom parameters here.
+//_tag.DCSext.param_name=param_value;
+}
+_tag.dcsCollect();
+//]]>
+</script>
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="//sdc.itu.int/dcsxwo60zspjo5dshtr0ytqo3_9q8g/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=9.4.0&amp;dcssip=www.itu.int"/></div>
+</noscript>
+<!-- END OF SmartSource Data Collector TAG -->
+
+<!-- ITU template ends -->
+
+	</body>
+	
+	<!-- Created from Starter SP2013 Master Page originally by Randy Drisgill (http://blog.drisgill.com) - April 21, 2013 -->
+</html>
