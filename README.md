@@ -6,13 +6,12 @@ Repository of documents from 3GPP and ITU workshops related to IMT2020 evaluatio
 
 This activity is to address the longer term vision for 2020 and beyond and will provide a framework and overall objectives of the future developments of IMT.
 
-* [M.2083](R-REC-M.2083-0-201509-I!!PDF-E%20IMT2020%20Vision.pdf) : Framework and overall objectives of the future development of IMT for 2020 and beyond
+* [M.2083](M.2083.IMT2020.Vision.pdf) : Framework and overall objectives of the future development of IMT for 2020 and beyond
 
-* [M.2410](R-REP-M.2410-2017-PDF-E TPR.pdf) : Minimum requirements related to technical performance for IMT-2020 radio interface(s)  
+* [M.2410](M.2410-TPR.pdf) : Minimum requirements related to technical performance for IMT-2020 radio interface(s)  
 
-* [M.2411](R-REP-M.2411-2017 - Submission.2411-2017) : Requirements, evaluation criteria and submission templates for the development of IMT-2020  
-
-* [M.2412](R-REP-M.2412-2017-PDF-E EVAL.pdf) : Guidelines for evaluation of radio interface technologies for IMT-2020  
+* [M.2411](M.2411.SUBMISSION.pdf) : Requirements, evaluation criteria and submission templates for the development of IMT-2020  
+* [M.2412](M.2412-EVAL.pdf) : Guidelines for evaluation of radio interface technologies for IMT-2020  
 
 
 
