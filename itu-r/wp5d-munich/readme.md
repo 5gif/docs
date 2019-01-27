@@ -26,57 +26,93 @@ The objectives of the workshop are as follows;
 –                 to invite possible proponents of IMT-2020 RIT/SRIT to present current and future development aspects about IMT-2020 RITs/SRITs; and
 
 –                 to invite registered independent evaluation groups to present information about their evaluation group and planned actions.
- 
-|                                                           | Registration                                                                                                                                                                                    |
-| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| S00-1                                                     | Opening remarks by the Chairman of WP 5D                                                                                                                                                        |
-|                                                           | Welcome remarks by the Host of the 28th WP 5D meeting                                                                                                                                           |
-| Presenter: Mr. Walter Guggi                               |                                                                                                                                                                                                 |
-|                                                           | Information on IMT-2020 Standardization in ITU-R WP 5D                                                                                                                                          |
-|                                                           | Overview of the IMT-2020 development process                                                                                                                                                    |
-| S01-1                                                     | Minimum requirements related to technical performance for IMT-2020 radio interface(s) "Report ITU-R M.[IMT-2020.TECH PERF REQ]"                                                                 |
-| Presenter: Ms. Eiman Mohyeldin (NOKIA)                    |                                                                                                                                                                                                 |
-| S01-2                                                     | Guidelines for evaluation of radio interface technologies for IMT-2020 "Report ITU-R M.[IMT-2020.EVAL]"                                                                                         |
-| Presenter: Dr. Ying Peng (DATANG)                         |                                                                                                                                                                                                 |
-|                                                           | Coffee break                                                                                                                                                                                    |
-| S01-3                                                     | Requirements, evaluation criteria and submission templates for the development of IMT‑2020 "Report ITU-R M.[IMT-2020.SUBMISSION]"                                                               |
-| Presenter: Dr. Yong Wu (HUAWEI)                           |                                                                                                                                                                                                 |
-| S01-4                                                     | Submission and Standardization process (including IPR treatment, consensus building and GCS)                                                                                                    |
-| Presenter: Mr. Yoshio Honda (ERICSSON)                    |                                                                                                                                                                                                 |
-|                                                           | Q & A for Session 1 (10 min after each presentation)                                                                                                                                            |
-|                                                           | LUNCH                                                                                                                                                                                           |
-|                                                           | Presentations by potential IMT-2020 RIT/SRIT proponents                                                                                                                                         |
-|                                                           | Presentations by potential IMT-2020 RIT/SRIT proponents (e.g., intentions, plans onwards, organizations, status of technical development, technical solutions to fulfil ITU requirements, etc.) |
-| S02-1                                                     | 3GPP 5G                                                                                                                                                                                         |
-| Presenter: Mr. Giovanni Romano (Telecom Italia, 3GPP)     |                                                                                                                                                                                                 |
-| S02-2                                                     | ETSI DECT                                                                                                                                                                                       |
-| Presenter: Mr. Daniel Hartnett (DECT Forum)               |                                                                                                                                                                                                 |
-| S02-3                                                     | Korea IMT-2020                                                                                                                                                                                  |
-| Presenter: Mr. Juseop Sim (Korea)                         |                                                                                                                                                                                                 |
-| S02-4                                                     | China IMT-2020                                                                                                                                                                                  |
-| Presenter: Mr. Yi Wan (China)                             |                                                                                                                                                                                                 |
-|                                                           | Q & A for Session  2                                                                                                                                                                            |
-|                                                           | Coffee break                                                                                                                                                                                    |
-|                                                           | Presentations by registered independent evaluation groups                                                                                                                                       |
-|                                                           | Presentations by the registered independent evaluation groups (e.g., structure, organization, future plans, etc.)                                                                               |
-| S03-1                                                     | 5G Infrastructure Association (5GPPP-EU)                                                                                                                                                        |
-| Presenter: Mr. Werner Mohr (Nokia Solutions and Networks) |                                                                                                                                                                                                 |
-| S03-2                                                     | ATIS WTC IMT-2020 Evaluation Group (WTSC-USA)                                                                                                                                                   |
-| Presenter: Mr. Francesco Pica (Qualcomm)                  |                                                                                                                                                                                                 |
-| S03-3                                                     | China Evaluation Group (ChEG-China)                                                                                                                                                             |
-| Presenter: Dr. Xu Xiaoyan (CAICT)                         |                                                                                                                                                                                                 |
-| S03-4                                                     | Canadian Evaluation Group (CEG-Canada)                                                                                                                                                          |
-| Presenter: Mr. Venkatesh Sampath (Ericsson)               |                                                                                                                                                                                                 |
-| S03-5                                                     | Wireless World Research Forum (WWRF)                                                                                                                                                            |
-| Presenter: Dr. Nigel Jefferies (WWRF)                     |                                                                                                                                                                                                 |
-| S03-6                                                     | Telecom Centres of Excellence (TCOE-India)                                                                                                                                                      |
-| Presenter: Dr. R K Pathak (TCOE)                          |                                                                                                                                                                                                 |
-| S03-7                                                     | 5GMF IMT-2020 Evaluation Group (5GMF-Japan)                                                                                                                                                     |
-| Presenter: Mr. Takaharu Nakamura (Fujitsu)                |                                                                                                                                                                                                 |
-| S03-8                                                     | TTA 5G Technology Evaluation Special Project Group (TTA SPG33-Korea)                                                                                                                            |
-| Presenter: Mr. Seong-Jun Oh (Korea University)            |                                                                                                                                                                                                 |
-| S03-9                                                     | Trans-Pacific Evaluation Group (TPCEG/ITRI-USA)                                                                                                                                                 |
-| Presenter: Mr. Tzu-Ming Lin (ITRI)                        |                                                                                                                                                                                                 |
-|                                                           | Q & A for Session 3                                                                                                                                                                             |
-|                                                           | Wrap up and Closing                                                                                                                                                                             |
 
+
+[Opening remarks by the Chairman of WP 5D](https://www.itu.int/en/ITU-R/study-groups/rsg5/rwp5d/imt-2020/Documents/S00-1_Comparison%20IMT%20TechDevelop_Rev.pdf)
+
+
+**Welcome remarks by the Host of the 28****th** **WP 5D meeting**_Presenter: Mr. Walter Guggi_ 
+
+**Session 1**
+
+**Information on IMT-2020 Standardization in ITU-R WP 5D**
+
+Overview of the IMT-2020 development process
+
+[Minimum requirements related to technical performance for IMT-2020 radio interface(s) "Report ITU-R M.\[IMT-2020.TECH PERF REQ\]"​](https://www.itu.int/en/ITU-R/study-groups/rsg5/rwp5d/imt-2020/Documents/S01-1_Requirements%20for%20IMT-2020_Rev.pdf)  
+_Presenter: Ms. Eiman Mohyeldin (NOKIA)_
+
+
+[Guidelines for evaluation of radio interface technologies for IMT-2020 "Report ITU-R M.\[IMT-2020.EVAL\]"​](https://www.itu.int/en/ITU-R/study-groups/rsg5/rwp5d/imt-2020/Documents/S01-2_Draft%20Report%20Evaluation%20for%20IMT-2020.pdf)  
+_Presenter: Dr. Ying Peng (DATANG)_
+
+
+[Requirements, evaluation criteria and submission templates for the development of IMT‑2020 "Report ITU-R M.\[IMT-2020.SUBMISSION\]"](https://www.itu.int/en/ITU-R/study-groups/rsg5/rwp5d/imt-2020/Documents/S01-3_Draft%20Report%20Submission%20for%20IMT-2020.pdf)  
+_Presenter: Dr. Yong Wu (HUAWEI)_
+
+
+[Submission and Standardization process (including IPR treatment, consensus building and GCS)](https://www.itu.int/en/ITU-R/study-groups/rsg5/rwp5d/imt-2020/Documents/S01-4_Standardization%20Process%20for%20IMT-2020_Rev.pdf)  
+_Presenter: Mr. Yoshio Honda (ERICSSON)_
+
+
+**Session 2**
+
+**Presentations by potential IMT-2020 RIT/SRIT proponents**
+ 
+Presentations by potential IMT-2020 RIT/SRIT proponents (e.g., intentions, plans onwards, organizations, status of technical development, technical solutions to fulfil ITU requirements, etc.)
+
+​[3GPP 5G](https://www.itu.int/en/ITU-R/study-groups/rsg5/rwp5d/imt-2020/Documents/S02-1_3GPP%20IMT-2020.pdf)  
+_Presenter:_ _Mr. Giovanni Romano (Telecom Italia, 3GPP)_
+
+
+​[ETSI DECT](https://www.itu.int/en/ITU-R/study-groups/rsg5/rwp5d/imt-2020/Documents/S02-2_ETSI%20DECT%20IMT-2020.pdf)  
+_Presenter: Mr. Daniel Hartnett (DECT Forum)_
+
+
+[​Korea IMT-2020](https://www.itu.int/en/ITU-R/study-groups/rsg5/rwp5d/imt-2020/Documents/S02-3_Korea%20IMT-2020.pdf)_  
+Presenter: Mr. Juseop Sim (Korea)_
+
+
+​[China IMT-2020](https://www.itu.int/en/ITU-R/study-groups/rsg5/rwp5d/imt-2020/Documents/S02-4_China%20IMT-2020.pdf)  
+_Presenter: Mr. Yi _Wan_ (China)_
+
+**Session 3**
+
+**Presentations by registered independent evaluation groups**
+
+Presentations by the registered independent evaluation groups (e.g., structure, organization, future plans, etc.)
+
+[​5G Infrastructure Association (5GPPP-EU)](https://www.itu.int/en/ITU-R/study-groups/rsg5/rwp5d/imt-2020/Documents/S03-1_5GPPP%20EU_Rev.pdf)  
+_Presenter: Mr. Werner Mohr (Nokia Solutions and Networks)_
+
+
+[​ATIS WTC IMT-2020 Evaluation Group (WTSC-USA)](https://www.itu.int/en/ITU-R/study-groups/rsg5/rwp5d/imt-2020/Documents/S03-2_ATIS%20WTSC%20USA.pdf)  
+_Presenter: Mr. Francesco Pica (Qualcomm)_
+
+[​China Evaluation Group (ChEG-China)](https://www.itu.int/en/ITU-R/study-groups/rsg5/rwp5d/imt-2020/Documents/S03-3_ChEG%20China.pdf)  
+_Presenter: Dr. _Xu _Xiaoyan__ (CAICT)_
+
+​​[Canadian Evaluation Group (CEG-Canada)](https://www.itu.int/en/ITU-R/study-groups/rsg5/rwp5d/imt-2020/Documents/S03-4_CEG%20Canada.pdf)  
+_Presenter: Mr. Venkatesh Sampath (Ericsson)_
+
+
+[​Wireless World Research Forum (WWRF)](https://www.itu.int/en/ITU-R/study-groups/rsg5/rwp5d/imt-2020/Documents/S03-5_WWRF%20Rev.pdf)  
+_Presenter__: Dr. Nigel Jefferies (WWRF)_
+
+
+[​Telecom Centres of Excellence (TCOE-India)](https://www.itu.int/en/ITU-R/study-groups/rsg5/rwp5d/imt-2020/Documents/S03-6_TCOE%20IndiaRev.pdf)  
+_Presenter: Dr. R K Pathak (TCOE)_
+
+[​5GMF IMT-2020 Evaluation Group (5GMF-Japan)](https://www.itu.int/en/ITU-R/study-groups/rsg5/rwp5d/imt-2020/Documents/S03-7_5GMF%20Japan.pdf)  
+_Presenter: Mr. Takaharu Nakamura (Fujitsu)_
+
+
+[​TTA 5G Technology Evaluation Special Project Group (TTA SPG33-Korea)](https://www.itu.int/en/ITU-R/study-groups/rsg5/rwp5d/imt-2020/Documents/S03-8_TTA%20SPG33%20Korea.pdf)  
+_Presenter: Mr. Seong-Jun Oh (Korea University)_
+
+
+[​Trans-Pacific Evaluation Group (TPCEG/ITRI-USA)](https://www.itu.int/en/ITU-R/study-groups/rsg5/rwp5d/imt-2020/Documents/S03-9_TPCEG_ITRI%20USA.pdf)  
+_Presenter: Mr. Tzu-Ming Lin (ITRI)_
+
+
+​
