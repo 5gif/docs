@@ -2,17 +2,33 @@ Repository of documents from 3GPP and ITU workshops related to IMT2020 evaluatio
 
 # Fundamental Documents of ITU-R
 
+## Recommendation ITU-R M.2083 - Framework and overall objectives of the future development of IMT for 2020 and beyond (September 2015)
+
+This activity is to address the longer term vision for 2020 and beyond and will provide a framework and overall objectives of the future developments of IMT.
+
+* [M.2083](R-REC-M.2083-0-201509-I!!PDF-E%20IMT2020%20Vision.pdf) : Framework and overall objectives of the future development of IMT for 2020 and beyond
+
+* [M.2410](R-REP-M.2410-2017-PDF-E TPR.pdf) : Minimum requirements related to technical performance for IMT-2020 radio interface(s)  
+
+* [M.2411](R-REP-M.2411-2017 - Submission.2411-2017) : Requirements, evaluation criteria and submission templates for the development of IMT-2020  
+
+* [M.2412](R-REP-M.2412-2017-PDF-E EVAL.pdf) : Guidelines for evaluation of radio interface technologies for IMT-2020  
+
+
+
 ## Requirements related to technical performance for IMT-2020 radio interface(s)
 
 ### Report ITU-R M.2410 – (TPR -Technical Performance Requirement of IMT-2020 system)  
 This Report describes key requirements related to the minimum technical performance of IMT-2020 candidate radio interface technologies. It also provides the necessary background information about the individual requirements and the justification for the items and values chosen. Provision of such background information is needed for a broader understanding of the requirements. This Report is based on the ongoing development activities of external research and technology organizations.
 
-·          
 
-## Guidelines for evaluation of radio interface technologies for IMT-2020
+### Report ITU-R M.2411 - Requirements, evaluation criteria and submission templates for the development of IMT-2020  
+
+This Report deals with on the requirements, evaluation criteria and submission templates for the development of Recommendations and Reports on IMT-2020, such as the detailed specifications of IMT 2020. It provides the service, spectrum and technical performance requirements for candidate Radio Interface Technologies (RITs)/Set of Radio Interface Technologies (SRITs) for IMT 2020.     
+
 
 ### Report ITU-R M.2412 – (– (Evaluation Methodology of a candidate technology, and Channel model) ) 
-This Report provides guidelines for the procedure, the methodology and the criteria (technical, spectrum and service) to be used in evaluating the candidate IMT-2020 radio interface technologies (RITs) or Set of RITs (SRITs) for a number of test environments. These test environments are chosen to simulate closely the more stringent radio operating environments. The evaluation procedure is designed in such a way that the overall performance of the candidate RITs/SRITs may be fairly and equally assessed on a technical basis. It ensures that the overall IMT 2020 objectives are met.
+This Report provides guidelines for the `procedure, the methodology` and the criteria (technical, spectrum and service) to be used in `evaluating the candidate IMT-2020 radio interface` technologies (RITs) or Set of RITs (SRITs) for a number of test environments. These test environments are chosen to simulate closely the more stringent radio operating environments. The evaluation procedure is designed in such a way that the overall performance of the candidate RITs/SRITs may be fairly and equally assessed on a technical basis. It ensures that the overall IMT 2020 objectives are met.
 
 
 ## Event 1 : ITU-R IMT-2020 Evaluation Workshop (Oct 2017, Germany)
