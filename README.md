@@ -39,3 +39,7 @@ Find files here in [ITU-R Folder](itu-r/)
 Source : [3GPP Website](http://www.3gpp.org/news-events/3gpp-news/1976-imt_2020)
 Find the presentions here [3GPP Folder](3gpp/)
  
+--- 
+KPI and Evaluation Methods
+ Source : [3GPP Website](http://www.3gpp.org/news-events/3gpp-news/1976-imt_2020)
+ ![Image](https://github.com/5gif/docs/blob/master/img/TPR%20and%20Eval%20methods.png)
