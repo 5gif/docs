@@ -41,5 +41,13 @@ Find the presentions here [3GPP Folder](3gpp/)
  
 --- 
 KPI and Evaluation Methods
- Source : [3GPP Website](http://www.3gpp.org/news-events/3gpp-news/1976-imt_2020)
- ![Image](https://github.com/5gif/docs/blob/master/img/TPR%20and%20Eval%20methods.png)
+
+## SIMULATION
+![Image]https://github.com/5gif/docs/blob/master/img/Simulation-TPRs.png
+
+## Others
+ ![Image](https://github.com/5gif/docs/blob/master/img/Scenarios-Configurations.png)
+ 
+
+ 
+  ![Image](https://github.com/5gif/docs/blob/master/img/TPR%20and%20Eval%20methods.png)
